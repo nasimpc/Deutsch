@@ -1,0 +1,43 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+
+# Operating system and editor files
+.DS_Store
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files and logs
+*.log
+*.tmp
+*.part
+
+# Generated Anki packages, downloaded/synthesized media and previews
+*.apkg
+/anki/a1.1/media/
+/anki/prototype/media/
+/anki/a1.1/preview.html
+/anki/prototype/preview.html
+/anki/prototype/preview-*.png
+/anki/a1.1/verification.json

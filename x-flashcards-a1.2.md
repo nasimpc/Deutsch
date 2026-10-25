@@ -1,0 +1,186 @@
+# German–English Flashcards — A1.2
+
+Later Netzwerk neu A1 vocabulary (chapters 7–12) and supplied Perfekt/dative forms. Beyond-A1 material is excluded.
+
+**178 study cards.** Numbers refer to the original entries in [x-flashcards.md](x-flashcards.md); a letter marks an entry split across the two study groups. Forms in the same group stay together.
+
+[Classification and exclusions](docs/vocabulary-level-split-audit.md) · [Study plan](docs/vocabulary-level-split.md)
+
+- **3.** abfahren (ist abgefahren) — to depart / leave
+- **4.** die Abfahrt — departure
+- **5.** abgeben (etw. Akk.) (hat abgegeben) — to hand something in
+- **6b.** hat abgeholt (abholen, Perfekt) — picked up / has picked up
+- **7.** der Absender (die Absenderin) — sender
+- **16.** anbieten (etw. Akk.) (hat angeboten) — to offer something
+- **19b.** hat angefangen (anfangen, Perfekt) — started / has started
+- **21b.** hat angeklickt (anklicken, Perfekt) — clicked / has clicked
+- **22.** ankommen (ist angekommen) — to arrive
+- **23.** die Ankunft — arrival
+- **24b.** hat angekreuzt (ankreuzen, Perfekt) — ticked / has ticked
+- **25.** anmachen (hat angemacht) — to turn something on
+- **26b.** hat sich angemeldet (sich anmelden, Perfekt) — registered / has registered
+- **29b.** hat angerufen (anrufen, Perfekt) — called / has called
+- **32.** die Ansage, Ansagen — announcement
+- **33.** der Anschluss — connection
+- **34b.** hat geantwortet (antworten, Perfekt) — answered / has answered
+- **37.** sich anziehen (Akk.) — to get dressed
+- **38.** das Apartment, Apartments — apartment
+- **41b.** hat gearbeitet (arbeiten, Perfekt) — worked / has worked
+- **43.** arbeitslos — unemployed
+- **44.** der Arbeitsplatz, Arbeitsplätze — workplace
+- **45.** der Arm, Arme — arm
+- **51b.** hat aufgehört (aufhören, Perfekt) — stopped / has stopped
+- **53b.** ist aufgestanden (aufstehen, Perfekt) — got up / has got up
+- **54.** der Aufzug, Aufzüge — lift
+- **55.** das Auge, Augen — eye
+- **58b.** hat ausgefüllt (ausfüllen, Perfekt) — filled in / has filled in
+- **60.** die Auskunft, Auskünfte — information
+- **64.** ausmachen (etw. Akk.) (hat ausgemacht) — to turn something off
+- **66.** aussehen (wie) (hat ausgesehen) — to look / look like (appearance)
+- **67b.** aus sein (Gerät / Licht) — to be off (a device / light)
+- **68.** aussteigen — to get off / get out (of a vehicle)
+- **69.** der Ausweis — identification, ID card
+- **72.** der Automat — vending machine / ticket machine
+- **73.** automatisch — automatic
+- **76.** das Bad, Bäder — bath, bathroom
+- **77.** baden (hat gebadet) — to bathe, take a bath
+- **80.** der Bahnsteig — platform
+- **82.** der Balkon — balcony
+- **84.** die Bank — bank
+- **86.** der Bauch — stomach
+- **87.** der Baum, Bäume — tree
+- **89b.** hat bedeutet (bedeuten, Perfekt) — meant / has meant
+- **93.** das Bein, Beine — leg
+- **97.** der/die Bekannte, Bekannten (pl) — acquaintance
+- **99.** benutzen (hat benutzt) — to use
+- **102.** besichtigen (hat besichtigt) — to visit / tour / view (a place)
+- **104b.** hat bestellt (bestellen, Perfekt) — ordered / has ordered
+- **105b.** hat besucht (besuchen, Perfekt) — visited / has visited
+- **107b.** hat bezahlt (bezahlen, Perfekt) — paid / has paid
+- **115.** die Bitte, Bitten — request, appeal
+- **116b.** hat gebeten (bitten, Perfekt) — asked / has asked (for something)
+- **118b.** ist geblieben (bleiben, Perfekt) — stayed / has stayed
+- **120.** der Blick — sight, view
+- **123.** böse — angry / cross
+- **126.** der Brief, Briefe — letter
+- **127.** die Briefmarke, Briefmarken — postage stamp
+- **128b.** hat gebracht (bringen, Perfekt) — brought / has brought
+- **141.** die Dame, Damen — lady
+- **142.** daneben — next to it / alongside
+- **150.** denn — because
+- **154.** der Doktor — doctor
+- **155.** das Doppelzimmer — double room
+- **156.** das Dorf, Dörfer — village
+- **159.** drucken — to print
+- **160.** der Drucker — printer
+- **161.** drücken — to press / push
+- **164.** die Durchsage, Durchsagen — announcement
+- **165.** dürfen — may, to be allowed to
+- **168.** die Dusche — shower
+- **169.** die Ecke, Ecken — corner
+- **173.** eilig — urgent, hurried
+- **181.** einsteigen — to embark
+- **183.** das Einzelzimmer — single room
+- **186.** der Empfänger — recipient
+- **187.** empfehlen — to recommend
+- **189.** das Ende — end
+- **195.** erlauben — to allow, permit
+- **211.** das Fax, Faxe — fax
+- **212.** die Feier — celebration, party
+- **219.** das Fieber — fever
+- **227.** abfliegen — to depart
+- **228.** der Abflug — departure
+- **229.** der Flughafen — airport
+- **240.** früher — earlier, formerly
+- **247.** der Garten — garden
+- **254.** gefallen — to please / appeal to / be liked
+- **256.** gegen — against, towards
+- **260.** das Gepäck — luggage
+- **269.** gestorben (sterben, Partizip II) — died / deceased
+- **271.** das Gewicht — weight
+- **276.** das Gleis, Gleise — track
+- **284.** die Größe — size
+- **290.** gültig — valid
+- **293.** das Haar, Haare — hair
+- **296.** die Halbpension — half board
+- **301.** die Hand, Hände — hand
+- **311.** hell — bright
+- **312.** der Herd — stove
+- **328b.** ihr / ihm (Dativ) — to her / to him
+- **333.** das Internet — internet
+- **335.** die Jacke, Jacken — coat, jacket
+- **339.** der Jugendliche, Jugendlichen — adolescent, teenager
+- **343.** kaputt — broken
+- **345.** die Kreditkarte — credit card
+- **357.** die Kleidung — clothing
+- **364.** das Konto — account
+- **365.** der Kopf — head
+- **368.** kriegen — to get
+- **369.** die Küche — kitchen
+- **372.** der Kühlschrank — fridge
+- **373.** kulturell — cultural
+- **374.** sich kümmern (um + Akk.) — to look after, take care of (someone/something)
+- **387.** das Leben — life
+- **390.** legen — to lay / put (something down)
+- **399.** das Licht — light
+- **405.** liegen — to lie
+- **421.** mieten — to rent, hire
+- **422.** die Miete — rent
+- **428.** mitnehmen — to take along
+- **430.** die Möbel (pl.) — furniture
+- **437.** der Mund — mouth
+- **453.** oben — upstairs
+- **456.** öffnen — to open
+- **459.** ohne — without
+- **466.** die Papiere (pl.) — papers, documents
+- **469.** der Pass, Pässe — passport
+- **475.** die Post — mail
+- **477.** das Praktikum — internship
+- **481.** der Prospekt, Prospekte — brochure, leaflet
+- **485.** rauchen — to smoke
+- **493.** die Reise — journey, travel
+- **494.** das Reisebüro, Reisebüros — travel agency
+- **495b.** der Reiseführer (Buch) — guidebook
+- **496.** reparieren — to fix, to mend
+- **497.** die Reparatur — repair
+- **499.** die Rezeption — reception
+- **501.** riechen — to smell
+- **509.** der Schalter — switch, counter
+- **510.** scheinen — to shine (the sun)
+- **512.** das Schild, Schilder — sign
+- **516.** schließen — to close
+- **517.** geschlossen — shut
+- **518.** der Schluss — conclusion, end
+- **524.** der Schrank, Schränke — cupboard
+- **526.** der Schuh, Schuhe — shoe
+- **539.** an sein — to be on
+- **544.** sich — oneself
+- **549.** das Sofa — sofa
+- **552.** sollen — should, to be supposed to
+- **563.** die Stelle, Stellen — job / position; place
+- **564.** stellen — to put / place (upright)
+- **565.** der Stock — floor
+- **569.** das Studium — university studies / degree course
+- **574.** die Tasche, Taschen — bag
+- **588.** die Toilette, Toiletten — toilet
+- **592.** die Treppe, Treppen — stairs
+- **597.** übernachten — to stay overnight
+- **598.** überweisen — to transfer (money)
+- **601.** umziehen — to move, relocate
+- **604.** unten — below, downstairs
+- **605.** unter — among, below, under
+- **607.** unterschreiben — to sign
+- **608.** die Unterschrift — signature
+- **609.** der Urlaub — vacation, break
+- **612.** verdienen — to earn (money)
+- **615.** verkaufen — to sell
+- **617.** vermieten — to let
+- **618.** der Vermieter — landlord
+- **639.** weit — far, wide
+- **661.** die Wohnung, Wohnungen — apartment
+- **665b.** hat gezahlt (zahlen, Perfekt) — paid / has paid
+- **667.** zurzeit (adv) — currently, at the moment
+- **671.** der Zoll — customs
+- **673.** zufrieden (adj) — content, happy
+- **677.** zwischen — between
+- **680b.** am nächsten — nearest / closest

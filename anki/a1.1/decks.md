@@ -1,0 +1,587 @@
+# German A1.1 — 18 study decks
+
+528 cards in source order. Text and German pronunciation; no images.
+
+Decks 01–17 have 30 cards each; deck 18 has 18.
+
+## Deck 01 — 30 cards
+
+- **1.** ab (ab heute) — from (from today)
+- **2.** aber — but
+- **6a.** abholen — to pick up / collect
+- **8.** Achtung! — attention! / watch out!
+- **9.** die Adresse, Adressen — address
+- **10.** alle / alles — all (everything)
+- **11.** allein — alone
+- **12.** also — so, thus
+- **13.** alt — old
+- **14.** das Alter — age, old age
+- **15.** an — on (adv), at (prep)
+- **17.** das Angebot, Angebote — offer
+- **18.** anderer / andere / anderes — other
+- **19a.** anfangen — to start
+- **20.** der Anfang — start
+- **21a.** anklicken (etw. Akk.) — to click something
+- **24a.** ankreuzen — to tick / mark with a cross
+- **26a.** sich anmelden (Akk.) — to register / enrol
+- **27.** die Anmeldung — application, registration
+- **28.** die Anrede — form of address
+- **29a.** anrufen — to telephone
+- **30.** der Anruf, Anrufe — telephone call
+- **31.** der Anrufbeantworter — answering machine
+- **34a.** antworten — to answer
+- **35.** die Antwort, Antworten — answer
+- **36.** die Anzeige, Anzeigen — advertisement
+- **39.** der Apfel, Äpfel — apple
+- **40.** der Appetit — appetite
+- **41a.** arbeiten — to work
+- **42.** die Arbeit, Arbeiten — work
+
+## Deck 02 — 30 cards
+
+- **46.** der Arzt, Ärzte — doctor
+- **47.** auch — also, too
+- **48.** auf — on, at, in
+- **49.** Auf Wiedersehen — goodbye
+- **50.** die Aufgabe, Aufgaben — task, assignment
+- **51a.** aufhören — to end, stop
+- **52.** auf sein — to be open
+- **53a.** aufstehen — to get up
+- **56.** aus — off, out of, from
+- **57.** der Ausflug, Ausflüge — trip
+- **58a.** ausfüllen — to complete, fill in
+- **59.** der Ausgang — exit
+- **61.** das Ausland — foreign countries; abroad
+- **62.** der Ausländer — foreigner
+- **63.** ausländisch — foreign
+- **65.** die Aussage, Aussagen — statement
+- **67a.** aus sein (Veranstaltung) — to be over (an event)
+- **70.** das Auto, Autos — car
+- **71.** die Autobahn, Autobahnen — highway
+- **74.** das Baby, Babys — baby
+- **75.** die Bäckerei — bakery
+- **78.** die Bahn — railway
+- **79.** der Bahnhof — train station
+- **81.** bald — soon
+- **83.** die Banane, Bananen — banana
+- **85.** bar — cash
+- **88.** der Beamte / die Beamtin — civil servant
+- **89a.** bedeuten — to mean
+- **90.** beginnen — to begin
+- **91.** bei — at, near
+
+## Deck 03 — 30 cards
+
+- **92.** beide — both
+- **94.** das Beispiel, Beispiele — example
+- **95.** zum Beispiel (z. B.) — for example
+- **96.** bekannt — known, famous
+- **98.** bekommen — to receive something
+- **100.** der Beruf, Berufe — job
+- **101.** besetzt (adj) — occupied, engaged, busy
+- **103.** gut, besser, am besten — good; better; best / the best
+- **104a.** bestellen — to order / book
+- **105a.** besuchen — to visit
+- **106.** das Bett, Betten — bed
+- **107a.** bezahlen — to pay (for something)
+- **108.** das Bier — beer
+- **109.** das Bild, Bilder — picture
+- **110.** billig — cheap / inexpensive
+- **111.** die Birne, Birnen — pear
+- **112.** bis — until (von..bis from ..to)
+- **113.** bisschen — a little
+- **114.** bitte — please
+- **116a.** bitten — to ask for / request
+- **117.** bitter — bitter
+- **118a.** bleiben — to stay / remain
+- **119.** der Bleistift, Bleistifte — pencil
+- **121.** die Blume, Blumen — flower
+- **122.** der Bogen — sheet / answer sheet
+- **124.** brauchen — to need sth.
+- **125.** breit — wide, broad
+- **128a.** bringen — to bring
+- **129.** das Brot, Brote — bread
+- **130.** das Brötchen (-) — roll, bun
+
+## Deck 04 — 30 cards
+
+- **131.** der Bruder, Brüder — brother
+- **132.** das Buch, Bücher — book
+- **133.** der Buchstabe, Buchstaben — alphabetic character/letter
+- **134.** buchstabieren — to spell
+- **135.** der Bus, Busse — bus
+- **136.** die Butter — butter
+- **137.** das Café, Cafés — cafe
+- **138.** die CD, CDs — CD
+- **139.** der Chef — boss
+- **140.** circa / ca. — approx.
+- **143.** danken — to thank
+- **144.** der Dank — the thanks
+- **145.** danke — Thank you
+- **146.** dann — then
+- **147.** das Datum — date
+- **148.** dauern — to last
+- **149.** dein — your
+- **151.** dich — you
+- **152.** dir (Dativ) — to you (informal singular)
+- **153.** die Disco — a club
+- **157.** dort / dorther / dorthin — there / from there / to there
+- **158.** draußen — outside
+- **162.** du — you
+- **163.** durch — through, across
+- **166.** der Durst — thirst
+- **167.** (sich) duschen — to shower
+- **170.** die Ehefrau, Ehefrauen — wife
+- **171.** der Ehemann, Ehemänner — husband
+- **172.** das Ei, Eier — egg
+- **174.** ein- — a
+
+## Deck 05 — 30 cards
+
+- **175.** einfach — easy
+- **176.** der Eingang — entrance
+- **177.** einkaufen — to purchase
+- **178.** einladen — to invite
+- **179.** die Einladung — invitation
+- **180.** einmal — once
+- **182.** der Eintritt — admission / entrance fee
+- **184.** die Eltern (pl.) — parents
+- **185.** die E-Mail, E-Mails — e-mail
+- **188.** enden — to end
+- **190.** entschuldigen / sich entschuldigen — to excuse / to apologize
+- **191.** die Entschuldigung — apology, excuse
+- **192.** er — he
+- **193.** das Ergebnis, Ergebnisse — result, outcome
+- **194.** erklären — to explain
+- **196.** der Erwachsene, Erwachsenen — adult
+- **197.** erzählen — to tell, narrate
+- **198.** es — it
+- **199.** essen — to eat
+- **200.** das Essen — food / meal
+- **201.** euer — your
+- **202.** fahren — to drive, ride
+- **203.** der Fahrer — driver
+- **204.** die Fahrkarte, Fahrkarten — ticket
+- **205.** das Fahrrad, Fahrräder — bicycle
+- **206.** falsch — false, wrong
+- **207.** die Familie, Familien — family
+- **208.** der Familienname — surname
+- **209.** der Familienstand — marital status
+- **210.** die Farbe, Farben — color
+
+## Deck 06 — 30 cards
+
+- **213.** feiern — to celebrate
+- **214.** fehlen — to be missing / be absent
+- **215.** der Fehler — mistake, flaw
+- **216.** fernsehen — to watch television
+- **217.** fertig — ready
+- **218.** das Feuer — fire
+- **220.** der Film, Filme — film
+- **221.** finden — to find
+- **222.** die Firma, Firmen — company
+- **223.** der Fisch, Fische — fish
+- **224.** die Flasche, Flaschen — bottle
+- **225.** das Fleisch — meat
+- **226.** fliegen — to fly
+- **230.** das Flugzeug — airplane
+- **231.** das Formular, Formulare — form
+- **232.** das Foto, Fotos — photo
+- **233.** fragen — to ask
+- **234.** die Frage, Fragen — question
+- **235.** die Frau, Frauen — woman
+- **236.** die Freizeit — free time
+- **237.** fremd — foreign
+- **238.** (sich) freuen — to be pleased / look forward to something
+- **239.** der Freund, Freunde — friend
+- **241.** frühstücken — to eat breakfast
+- **242.** das Frühstück — breakfast
+- **243.** die Führung — guided tour
+- **244.** für — for
+- **245.** der Fuß, Füße — foot
+- **246.** der Fußball — football
+- **248.** der Gast, Gäste — guest, customer
+
+## Deck 07 — 30 cards
+
+- **249.** geben — to give
+- **250.** geboren — born
+- **251.** das Geburtsjahr — year of birth
+- **252.** der Geburtsort — birthplace
+- **253.** der Geburtstag — birthday
+- **255.** gehen — to go, walk
+- **257.** gehören — to belong (to)
+- **258.** das Geld — money
+- **259.** das Gemüse — vegetables
+- **261.** gerade — just / at the moment
+- **262.** geradeaus — straight ahead
+- **263.** gern / gerne — gladly, willingly
+- **264.** das Geschäft, Geschäfte — shop
+- **265.** das Geschenk, Geschenke — gift
+- **266.** die Geschwister (pl.) — siblings
+- **267.** das Gespräch, Gespräche — conversation
+- **268.** gestern — yesterday
+- **270.** das Getränk, Getränke — drink
+- **272.** gewinnen — to gain, win
+- **273.** das Glas, Gläser — glass
+- **274.** glauben — to believe
+- **275.** gleich — equal / the same; in a moment
+- **277.** das Glück — fortune
+- **278.** glücklich — happy, fortunate
+- **279.** der Glückwunsch — congratulations
+- **280.** Grad (Celsius) — degree (Celsius)
+- **281.** gratulieren — to congratulate
+- **282.** grillen — to grill
+- **283.** groß — big
+- **285.** die Großeltern (pl.) — grandparents
+
+## Deck 08 — 30 cards
+
+- **286.** die Großmutter — grandmother
+- **287.** der Großvater — grandfather
+- **288.** die Gruppe, Gruppen — group
+- **289.** der Gruß, Grüße — greeting
+- **291.** günstig — inexpensive / favourable / convenient
+- **292.** gut — good
+- **294.** haben — to have
+- **295.** das Hähnchen — chicken
+- **297.** die Halle — hall
+- **298.** hallo — hello
+- **299.** halten — to keep, hold
+- **300.** die Haltestelle — stop, station
+- **302.** das Handy, Handys — cell phone
+- **303.** das Haus, Häuser — house
+- **304.** die Hausaufgabe, Hausaufgaben — homework
+- **305.** die Hausfrau, Hausfrauen — housewife
+- **306.** der Hausmann, Hausmänner — househusband
+- **307.** die Heimat — homeland
+- **308.** heiraten — to marry
+- **309.** heißen — to be called
+- **310.** helfen — to help
+- **313.** der Herr, Herren — Mr
+- **314.** herzlich — warm / cordial; warmly / cordially
+- **315.** heute — today
+- **316.** hier — here
+- **317.** die Hilfe — help / assistance
+- **318.** hinten — behind
+- **319.** das Hobby, Hobbys — hobby
+- **320.** hoch — high, tall
+- **321.** die Hochzeit — wedding
+
+## Deck 09 — 30 cards
+
+- **322.** holen — to fetch, to get
+- **323.** hören — to hear, to listen
+- **324.** das Hotel, Hotels — hotel
+- **325.** der Hund, Hunde — dog
+- **326.** der Hunger — hunger
+- **327.** ich — I
+- **328a.** ihn (Akkusativ) — him
+- **329.** immer — always
+- **330.** in — in
+- **331.** die Information, Informationen — information
+- **332.** international — international
+- **334.** ja — yes
+- **336.** jeder / jede / jedes — every, each
+- **337.** jetzt — now
+- **338.** der Job, Jobs — job
+- **340.** jung — young
+- **341.** der Junge, Jungen — boy
+- **342.** der Kaffee — coffee
+- **344.** die Karte, Karten — card
+- **346.** die Kartoffel, Kartoffeln — potato
+- **347.** die Kasse — checkout / till
+- **348.** kaufen — to buy
+- **349.** kein — no
+- **350.** kennen — to know
+- **351.** das Kind, Kinder — child
+- **352.** der Kindergarten — kindergarten
+- **353.** das Kino, Kinos — cinema
+- **354.** der Kiosk — kiosk
+- **355.** klar — clear
+- **356.** die Klasse — class
+
+## Deck 10 — 30 cards
+
+- **358.** klein — small
+- **359.** kochen — to cook
+- **360.** der Koffer — suitcase
+- **361.** der Kollege, Kollegen — colleague
+- **362.** kommen — to come
+- **363.** können — to be able to, can
+- **366.** kosten — to cost
+- **367.** krank — ill, sick
+- **370.** der Kuchen — cake
+- **371.** der Kugelschreiber — pen
+- **375.** der Kunde, Kunden — customer
+- **376.** der Kurs, Kurse — course
+- **377.** kurz — short / brief; briefly
+- **378.** lachen — to laugh
+- **379.** der Laden, Läden — store
+- **380.** das Land, Länder — country
+- **381.** lang — long (adjective)
+- **382.** lange — long (adverb)
+- **383.** langsam — slowly
+- **384.** laufen — to run
+- **385.** laut — loud, noisy
+- **386.** leben — to live
+- **388.** die Lebensmittel (pl.) — groceries
+- **389.** ledig — single
+- **391.** der Lehrer — teacher
+- **392.** leicht — easy, light
+- **393.** leider — unfortunately
+- **394.** leise — quiet
+- **395.** lernen — to learn
+- **396.** lesen — to read
+
+## Deck 11 — 30 cards
+
+- **397.** letzt- — last
+- **398.** die Leute (pl.) — people
+- **400.** lieb — dear, kind
+- **401.** lieben — to love
+- **402.** lieber — rather / preferably
+- **403.** Lieblings- (z. B. Lieblingsessen) — favorite
+- **404.** das Lied, Lieder — song
+- **406.** links — left
+- **407.** der Lkw, Lkws — lorry, truck
+- **408.** das Lokal — restaurant, pub
+- **409.** die Lösung, Lösungen — solution
+- **410.** lustig — funny
+- **411.** machen — to make, do
+- **412.** das Mädchen — girl
+- **413.** der Mann, Männer — man
+- **414.** männlich — male
+- **415.** die Maschine, Maschinen — engine, machine
+- **416.** das Meer — sea
+- **417.** mehr — more
+- **418.** mein — my
+- **419.** meist — mostly / usually
+- **420.** der Mensch, Menschen — human, person
+- **423.** die Milch — milk
+- **424.** mit — with
+- **425.** mitbringen — to bring along
+- **426.** mitkommen — to accompany
+- **427.** mitmachen — to participate
+- **429.** die Mitte — middle
+- **431.** möchten — would like
+- **432.** mögen — to like
+
+## Deck 12 — 30 cards
+
+- **433.** möglich — possible
+- **434.** der Moment — moment
+- **435.** morgen — tomorrow
+- **436.** müde — tired, sleepy
+- **438.** müssen — to have to, must
+- **439.** die Mutter, Mütter — mother
+- **440.** nach — to / towards / after
+- **441.** nächst- (z. B. nächste Woche) — next, nearest
+- **442.** der Name, Namen — name
+- **443.** nehmen — to take
+- **444.** nein — no
+- **445.** neu — new
+- **446.** nicht — not
+- **447.** nichts — nothing
+- **448.** nie — never
+- **449.** noch — still
+- **450.** normal — ordinary
+- **451.** die Nummer, Nummern — number
+- **452.** nur — only
+- **454.** das Obst — fruit
+- **455.** oder — or
+- **457.** geöffnet — open
+- **458.** oft — often
+- **460.** das Öl — oil
+- **461.** die Oma, Omas — grandma
+- **462.** der Opa, Opas — grandpa
+- **463.** die Ordnung; in Ordnung — order / tidiness; okay / all right (in Ordnung)
+- **464.** der Ort, Orte — place, location
+- **465.** das Papier — paper
+- **467.** der Partner / die Partnerin, Partnerinnen — partner
+
+## Deck 13 — 30 cards
+
+- **468.** die Party — party
+- **470.** die Pause, Pausen — break
+- **471.** der Plan, Pläne — plan, schedule
+- **472.** der Platz, Plätze — square
+- **473.** die Polizei — police
+- **474.** die Pommes frites (pl.) — french fries
+- **476.** die Postleitzahl — postal code
+- **478.** die Praxis — doctor's practice / surgery
+- **479.** der Preis, Preise — price
+- **480.** das Problem, Probleme — trouble, problem
+- **482.** die Prüfung — exam
+- **483.** pünktlich — punctual
+- **484.** Rad fahren — to bike
+- **486.** der Raum, Räume — space, room
+- **487.** die Rechnung, Rechnungen — bill, invoice
+- **488.** rechts — right
+- **489.** regnen — to rain
+- **490.** der Regen — rain
+- **491.** der Reis — rice
+- **492.** reisen — to travel
+- **495a.** der Reiseführer (Person) — tour guide
+- **498.** das Restaurant, Restaurants — restaurant
+- **500.** richtig — correct, right
+- **502.** ruhig — calm, quiet
+- **503.** der Saft — juice
+- **504.** sagen — to say
+- **505.** der Salat — salad, lettuce
+- **506.** das Salz — salt
+- **507.** der Satz, Sätze — sentence, clause
+- **508.** die S-Bahn — suburban railway
+
+## Deck 14 — 30 cards
+
+- **511.** schicken — to send
+- **513.** der Schinken, - — ham
+- **514.** schlafen — to sleep
+- **515.** schlecht — bad, poor
+- **519.** der Schlüssel, - — key
+- **520.** schmecken — to taste
+- **521.** schnell — quickly, fast
+- **522.** schon — already
+- **523.** schön — beautiful, lovely
+- **525.** schreiben — to write
+- **527.** die Schule — school
+- **528.** der Schüler, - — pupil, student
+- **529.** schwer — heavy, difficult
+- **530.** die Schwester, Schwestern — sister
+- **531.** schwimmen — to swim
+- **532.** das Schwimmbad — swimming pool
+- **533.** der See — lake
+- **534.** sehen — to see
+- **535.** die Sehenswürdigkeit, Sehenswürdigkeiten — sight
+- **536.** sehr — very
+- **537.** Danke sehr! — thank you very much!
+- **538.** sein (Verb / Possessivartikel) — to be; his / its
+- **540.** weg sein — to be away
+- **541.** zu sein — to be closed
+- **542.** seit — since
+- **543.** selbstständig — self-employed / independent
+- **545.** sie — she
+- **546.** Sie — you (formal)
+- **547.** sitzen — to sit
+- **548.** so — so
+
+## Deck 15 — 30 cards
+
+- **550.** sofort — immediately
+- **551.** der Sohn, Söhne — son
+- **553.** die Sonne — sun
+- **554.** spät — late
+- **555.** später — later, afterwards
+- **556.** die Speisekarte — menu
+- **557.** spielen — to play
+- **558.** der Sport — sport
+- **559.** die Sprache, Sprachen — language
+- **560.** sprechen — to speak
+- **561.** die Stadt, Städte — city
+- **562.** stehen — to stand
+- **566.** die Straße, Straßen — street
+- **567.** die Straßenbahn — tram, streetcar
+- **568.** studieren — to study
+- **570.** der Student, Studenten — student
+- **571.** die Stunde, Stunden — hour
+- **572.** suchen — to seek, to search
+- **573.** tanzen — to dance
+- **575.** das Taxi, Taxis — taxi
+- **576.** der Tee — tea
+- **577.** der Teil, Teile — part, section
+- **578.** telefonieren — to call
+- **579.** das Telefon — phone
+- **580.** der Termin, Termine — appointment
+- **581.** der Test — test
+- **582.** teuer — expensive
+- **583.** der Text, Texte — text
+- **584.** das Thema — topic / subject
+- **585.** das Ticket, Tickets — ticket
+
+## Deck 16 — 30 cards
+
+- **586.** der Tisch, Tische — table
+- **587.** die Tochter, Töchter — daughter
+- **589.** die Tomate, Tomaten — tomato
+- **590.** tot — dead
+- **591.** treffen / sich treffen — to meet / meet each other
+- **593.** trinken — to drink
+- **594.** tschüss — bye
+- **595.** tun — to do
+- **596.** über — about, above, across
+- **599.** die Uhr — clock
+- **600.** um — about, around
+- **602.** und — and
+- **603.** unser- (unser / unsere) — our
+- **606.** der Unterricht — lesson
+- **610.** der Vater, Väter — father
+- **611.** verboten — prohibited
+- **613.** der Verein — club, association
+- **614.** verheiratet — married
+- **616.** der Verkäufer, - — vendor
+- **619.** verstehen — to understand
+- **620.** der Verwandte, Verwandten — relative
+- **621.** viel — much
+- **622.** vielleicht — maybe, perhaps
+- **623.** von — from
+- **624.** vor — before, in front of, ago
+- **625.** der Vorname, Vornamen — first name
+- **626.** die Vorsicht — caution / care
+- **627.** (sich) vorstellen — to introduce
+- **628.** die Vorwahl — dialling code / area code
+- **629.** wandern — to hike
+
+## Deck 17 — 30 cards
+
+- **630.** wann — when
+- **631.** warten — to wait
+- **632.** warum — why
+- **633.** was — what
+- **634.** was für ein — what kind of (a)
+- **635.** (sich) waschen — to wash
+- **636.** das Wasser — water
+- **637.** weiblich — female
+- **638.** der Wein — wine
+- **640.** weiter — further / on / onward
+- **641.** welcher / welche / welches — which
+- **642.** die Welt — world
+- **643.** wenig — few
+- **644.** wer — who
+- **645.** werden — to become
+- **646.** das Wetter — weather
+- **647.** wichtig — important, vital, necessary
+- **648.** wie — how, like
+- **649.** wiederholen — to repeat
+- **650.** Auf Wiederhören! — goodbye! (on the phone)
+- **651.** Auf Wiedersehen! — goodbye!
+- **652.** wie viel — how much
+- **653.** willkommen — welcome
+- **654.** der Wind — wind
+- **655.** wir — we
+- **656.** wissen — to know
+- **657.** wo — where
+- **658.** woher — where...from
+- **659.** wohin — where to
+- **660.** wohnen — to live
+
+## Deck 18 — 18 cards
+
+- **662.** wollen — to want (to)
+- **663.** das Wort, die Wörter — word
+- **664.** wunderbar — wonderful
+- **665a.** zahlen — to pay
+- **666.** die Zeit — time
+- **668.** die Zeitung, Zeitungen — newspaper
+- **669.** die Zigarette, Zigaretten — cigarette
+- **670.** das Zimmer — room
+- **672.** zu (adv) — too
+- **674.** der Zug, Züge — train
+- **675.** zurück — back
+- **676.** zusammen — together
+- **678.** gern, lieber, am liebsten — gladly / like doing something; rather / prefer; most of all / like best
+- **679.** viel, mehr, am meisten — much / a lot; more; most / the most
+- **680a.** nah — near
+- **681.** hoch — high / tall
+- **682.** bald — soon
+- **683.** groß — big / large

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "german": "ab (ab heute)",
+    "english": "from (from today)",
+    "word": "ab",
+    "details": "(ab heute)",
+    "speech": "ab",
+    "image": "",
+    "alt": "",
+    "audio": "a1_001_de.mp3"
+  },
+  {
+    "id": 2,
+    "german": "aber",
+    "english": "but",
+    "word": "aber",
+    "details": "",
+    "speech": "aber",
+    "image": "",
+    "alt": "",
+    "audio": "a1_002_de.mp3"
+  },
+  {
+    "id": 3,
+    "german": "abfahren (fuhr ab, abgefahren)",
+    "english": "to depart (/leave)",
+    "word": "abfahren",
+    "details": "(fuhr ab, abgefahren)",
+    "speech": "abfahren",
+    "image": "a1_003_depart.jpg",
+    "alt": "SpongeBob: Ight imma head out",
+    "audio": "a1_003_de.mp3"
+  },
+  {
+    "id": 4,
+    "german": "die Abfahrt",
+    "english": "departure",
+    "word": "die Abfahrt",
+    "details": "",
+    "speech": "die Abfahrt",
+    "image": "",
+    "alt": "",
+    "audio": "a1_004_de.mp3"
+  },
+  {
+    "id": 5,
+    "german": "abgeben (etw.Akk. Abgeben, gab ab, abgegeben)",
+    "english": "to hand something in",
+    "word": "abgeben",
+    "details": "(etw.Akk. Abgeben, gab ab, abgegeben)",
+    "speech": "abgeben",
+    "image": "",
+    "alt": "",
+    "audio": "a1_005_de.mp3"
+  },
+  {
+    "id": 6,
+    "german": "abholen (holte ab, abgeholt)",
+    "english": "to pick up (to collect sth.)",
+    "word": "abholen",
+    "details": "(holte ab, abgeholt)",
+    "speech": "abholen",
+    "image": "a1_006_pickup.jpg",
+    "alt": "Mean Girls: Get in loser, we are going shopping",
+    "audio": "a1_006_de.mp3"
+  },
+  {
+    "id": 7,
+    "german": "der Absender (die Absenderin)",
+    "english": "sender",
+    "word": "der Absender",
+    "details": "(die Absenderin)",
+    "speech": "der Absender, die Absenderin",
+    "image": "",
+    "alt": "",
+    "audio": "a1_007_de.mp3"
+  },
+  {
+    "id": 8,
+    "german": "Achtung! (die)",
+    "english": "attention",
+    "word": "Achtung!",
+    "details": "(die)",
+    "speech": "Achtung!",
+    "image": "a1_008_attention.jpg",
+    "alt": "Leonardo DiCaprio pointing at the screen",
+    "audio": "a1_008_de.mp3"
+  },
+  {
+    "id": 9,
+    "german": "die Adresse, Adressen",
+    "english": "address",
+    "word": "die Adresse",
+    "details": "Adressen",
+    "speech": "die Adresse",
+    "image": "",
+    "alt": "",
+    "audio": "a1_009_de.mp3"
+  },
+  {
+    "id": 10,
+    "german": "alle (alles)",
+    "english": "all (everything)",
+    "word": "alle",
+    "details": "(alles)",
+    "speech": "alle, alles",
+    "image": "",
+    "alt": "",
+    "audio": "a1_010_de.mp3"
+  }
+]

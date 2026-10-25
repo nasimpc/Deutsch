@@ -1,0 +1,41 @@
+{
+  "images": [
+    {
+      "card": 3,
+      "file": "a1_003_depart.jpg",
+      "url": "https://i.imgflip.com/3984s6.jpg",
+      "source": "https://imgflip.com/memetemplate/196894518/Ight-imma-head-out",
+      "description": "SpongeBob: Ight imma head out"
+    },
+    {
+      "card": 6,
+      "file": "a1_006_pickup.jpg",
+      "url": "https://i.imgflip.com/4fvc05.jpg",
+      "source": "https://imgflip.com/memetemplate/268520837/Get-in-Loser-Were-Going-Shopping",
+      "description": "Mean Girls: Get in loser, we are going shopping"
+    },
+    {
+      "card": 8,
+      "file": "a1_008_attention.jpg",
+      "url": "https://i.imgflip.com/572vjn.jpg",
+      "source": "https://imgflip.com/memetemplate/314222387/Leonardo-Dicaprio-pointing",
+      "description": "Leonardo DiCaprio pointing at the screen"
+    }
+  ],
+  "audio": {
+    "voice": "de-DE-KatjaNeural",
+    "rate": "-10%",
+    "spoken_text": [
+      "ab",
+      "aber",
+      "abfahren",
+      "die Abfahrt",
+      "abgeben",
+      "abholen",
+      "der Absender, die Absenderin",
+      "Achtung!",
+      "die Adresse",
+      "alle, alles"
+    ]
+  }
+}
