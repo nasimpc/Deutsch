@@ -1,0 +1,17 @@
+{
+  "package_sha256": "4a67b8d14d4251045b1eb64c3b56d01b0628e043d5ed31174183eef601f89247",
+  "anki_backend_version": "25.02.5",
+  "personal_collection_accessed": false,
+  "initial_import_notes": 528,
+  "upgraded_notes": 528,
+  "duplicate_notes": 0,
+  "illustrated_cards": 16,
+  "subdecks": 18,
+  "nine_field_schema_unchanged": true,
+  "internal_note_and_card_ids_preserved": true,
+  "scheduling_preserved": true,
+  "reviewed_and_suspended_examples_checked": true,
+  "repeat_import_idempotent": true,
+  "approved_media_bytes_verified": true,
+  "import_options": "Defaults; no note-type merge, no scheduling import"
+}

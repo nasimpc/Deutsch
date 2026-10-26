@@ -6,9 +6,13 @@
 - German on the front; only the English meaning and an optional mnemonic image on the back. Do not repeat German, grammar, audio, captions, or metadata on the back.
 - Include German pronunciation audio for each vocabulary entry.
 - Preserve the vocabulary details chosen during source conversion. Audit and correct the study content, retaining the original source fields for reference.
-- The requested A1.1 build uses `x-flashcards-a1.1.md` as its study-card source and contains text and German pronunciation audio only. Do not include images in this build. This supersedes the earlier image requirement for the full build; the existing prototype still contains its three sample images.
+- The A1.1 build uses `x-flashcards-a1.1.md`: 528 source cards with German audio. On 26 October 2026 the user approved all 16 proposed Deck 01 visuals, including 4 GIFs. 14 Deck 01 gaps remain; Decks 02–18 have no images. This supersedes the earlier text/audio-only requirement for Deck 01 only.
 - Bundled German pronunciation audio plays only when the speaker button is clicked. No automatic playback on either side.
 - Selected design: option A, clean modern, with a blue palette. Remove the other two design options.
+
+## Deck 01 visual research authorization — 25 October 2026
+
+The [Deck 01 image brief](anki-deck-01-image-goal-prompt.md) supersedes the no-images decisions below **only for German A1.1::Deck 01**. Search all 30 existing cards, present an offline candidate gallery, and wait for individual selections before integrating. Decks 02–18 retain text/audio content with no images. Current proposals and evidence live in the [research memory](anki-deck-01-visual-research.md). The user subsequently said **“approve all” on 26 October 2026**: all 16 proposed candidates are approved and integrated. Rejected candidates are excluded; 14 gaps preserved.
 
 ## First-ten-card sample
 
@@ -20,26 +24,26 @@
 - Existing images: SpongeBob leaving (#3), Mean Girls pickup scene (#6), Leonardo DiCaprio pointing (#8). Source links are recorded in `media-sources.json`, outside the visible cards.
 - The first ten prototype English meanings retain the source wording. The classified study lists include reviewed meaning corrections and split forms; these have not yet been applied to the prototype.
 
-## Decisions to settle
+## Original defaults — 25 October 2026
 
 The learner approved the following defaults on 25 October 2026:
 
 - Preserve all **528 A1.1 cards**: 17 decks of 30, with 18 cards in the last deck. Do not add 12 cards merely to reach 540.
 - Retain source order and repeated source entries.
 - Deliver one `.apkg` containing 18 numbered subdecks, using the selected blue design.
-- German on the front, English only on the back; no images.
+- German on the front, English on the back; the original no-images rule was superseded for approved Deck 01 images on 26 October 2026.
 - Bundle pronunciation for offline use, retaining the sample voice, speed and click-only playback.
 
 The specific study device remains unspecified. Playback still needs checking in the learner's Anki installation.
 
-## A1.1 build status
+## A1.1 build status — 26 October 2026
 
-- [Complete text grouped into 18 decks](../anki/a1.1/decks.md), [browser preview](../anki/a1.1/preview.html), card data and resumable build scripts are prepared in `anki/a1.1/`.
-- The source was checked against all 528 classified A1.1 records, including original fields and IDs.
-- Six prototype audio clips match the approved spoken text. Another **519 unique clips** are needed; repeated identical spoken text shares an audio file.
-- Audio synthesis is blocked by this execution environment's network restriction, and the permission request was rejected by the automatic approval policy. The final package has not been created.
-- Package serialization and checks passed using temporary audio fixtures; those fixtures were discarded. Actual audio completeness and the final package will be checked after synthesis.
-- [Completion instructions](../anki/a1.1/README.md) provide a single command to generate audio and build/verify the package from a terminal with internet access.
+- [Package](../anki/a1.1/german-a1.1.apkg), [offline preview](../anki/a1.1/preview.html), [gallery](../anki/a1.1/image-candidates/index.html), [approved source manifest](../anki/a1.1/image-candidates/manifest.json) and [verification](../anki/a1.1/verification.json) are complete.
+- 528 cards/18 subdecks/525 original MP3s/16 approved images/4 animated GIFs/14 Deck 01 gaps; Decks 02–18 unchanged and image-free. Audio remains click-only.
+- Existing nine-field schema, model identity, templates, GUIDs and deck IDs preserved; approved image HTML is appended only to the existing English answer field.
+- Two preparation/build cycles passed. Negative checks reject unintended images and altered/autoplay audio. Offline preview and actual Anki-rendered answers passed mobile-width and animation checks.
+- Reimport from the real old package passed without duplicates or scheduling changes in disposable collections on Anki 25.02.5 and 26.9.3. Installed Anki 25.02.5 AnkiWebView played all 4 GIFs in an isolated profile. [Validation reports](../anki/a1.1/validation/README.md).
+- Personal collection and mobile clients were not tested. See [current README](../anki/a1.1/README.md) for limitations and reproduction commands.
 
 ## Verified Anki capabilities
 
@@ -47,4 +51,4 @@ The specific study device remains unspecified. Playback still needs checking in 
 - [HTML and CSS templates](https://docs.ankiweb.net/manual/templates/styling) support custom card layouts, images, and audio replay styling.
 - [Text-to-speech](https://docs.ankiweb.net/manual/templates/fields) can speak a dedicated German field, with voice availability depending on the platform.
 
-The complete Anki deck has not been built; the current package is the selected blue design applied to the first ten source pairs. The current vocabulary split supplies **528 A1.1** and **178 A1.2** study-card records in the [two lists and provenance data](vocabulary-level-split.md), with splits, corrections and exclusions documented in the [audit](vocabulary-level-split-audit.md).
+The complete A1.1 text/audio deck has been built and verified; the separate prototype remains the selected blue design applied to the first ten source pairs. The current vocabulary split supplies **528 A1.1** and **178 A1.2** study-card records in the [two lists and provenance data](vocabulary-level-split.md), with splits, corrections and exclusions documented in the [audit](vocabulary-level-split-audit.md).

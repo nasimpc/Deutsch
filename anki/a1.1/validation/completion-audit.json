@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-26",
+  "complete": true,
+  "cards": 528,
+  "subdecks": 18,
+  "deck01_cards": 30,
+  "illustrated_cards": 16,
+  "animated_gifs": 4,
+  "intentional_deck01_gaps": 14,
+  "approved_only": true,
+  "original_vocabulary_audio_and_ids_preserved": true,
+  "preparation_persistence_verified": true,
+  "offline_media_and_click_only_audio_verified": true,
+  "reimport_verified_versions": [
+    "25.02.5",
+    "26.9.3"
+  ],
+  "gif_animation_verified_in": [
+    "offline gallery",
+    "offline preview",
+    "Anki-rendered package answers in Chrome",
+    "installed Anki25.02.5 AnkiWebView, isolated profile"
+  ],
+  "personal_collection_accessed": false,
+  "limitations": [
+    "AnkiMobile/AnkiDroid and physical devices not tested.",
+    "Personal locally customized note types not tested."
+  ],
+  "artifact_sha256": {
+    "german-a1.1.apkg": "4a67b8d14d4251045b1eb64c3b56d01b0628e043d5ed31174183eef601f89247",
+    "preview.html": "6e09304395d1e76879ed7c699e800643aea3e80289521edb811ecbe988a9f4d4",
+    "cards.json": "369c93d9c9e7b3d3138f3bb2eae15de225d0280ad654116045fc57161afe1a7e",
+    "audio-manifest.json": "35f2789c135337b9d91298f0680bc312f43e1a454c30f48f5c25d8751d6a19a3",
+    "build.py": "85e7cbadd161b8b57b2ddbba2c19bec8bb43cdb54d1055c5ea9613b72ea6397d",
+    "preview-template.html": "259b3f7b4fe35c143963a5fa15ec5c33d579f588bb1e3ad2ae68fba6f5a1d4d9",
+    "image-candidates/manifest.json": "e973c342423c22198145d09cb2220e8ae0e33df0a91591da728998ea0a5411ec",
+    "image-candidates/index.html": "90df6e808bfab473974a4e0f0b3d0d3dd10683fe3bc619ea1fea7c37283a6a48",
+    "verification.json": "19cbc9ff1a6d96828f60dc8278975054a9547aaf6ab6b5094fa08ee72d74569a"
+  }
+}

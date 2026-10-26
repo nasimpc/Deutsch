@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-25",
+  "checks": [
+    {
+      "candidate_id": "6-base-A",
+      "kind": "source_page_url",
+      "url": "https://tenor.com/view/mean-girls-shopping-gif-23164018",
+      "status": 200,
+      "final_url": "https://tenor.com/view/mean-girls-shopping-gif-23164018",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 119268
+    },
+    {
+      "candidate_id": "6-base-A",
+      "kind": "image_url",
+      "url": "https://media1.tenor.com/m/IF4OlkPc6rAAAAAC/mean-girls.gif",
+      "status": 200,
+      "final_url": "https://media1.tenor.com/m/IF4OlkPc6rAAAAAC/mean-girls.gif",
+      "content_type": "image/gif",
+      "bytes_sampled": 408347
+    },
+    {
+      "candidate_id": "8-base-A",
+      "kind": "source_page_url",
+      "url": "https://schildbruder.de/produkt/schilder/schild-achtung-enten/",
+      "status": 200,
+      "final_url": "https://schildbruder.de/produkt/schilder/schild-achtung-enten/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 1000000
+    },
+    {
+      "candidate_id": "8-base-A",
+      "kind": "image_url",
+      "url": "https://schildbruder.de/storage/2024/11/10000621_Achtung_Enten.jpg",
+      "status": 200,
+      "final_url": "https://schildbruder.de/storage/2024/11/10000621_Achtung_Enten.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 70923
+    },
+    {
+      "candidate_id": "9-base-A",
+      "kind": "source_page_url",
+      "url": "https://propstore.com/product/harry-potter-and-the-philosophers-stone-2001/lot-164-hero-wax-sealed-hogwarts-acceptance-letter/",
+      "status": 200,
+      "final_url": "https://propstore.com/product/harry-potter-and-the-philosophers-stone-2001/lot-164-hero-wax-sealed-hogwarts-acceptance-letter/",
+      "content_type": "text/html;charset=UTF-8",
+      "bytes_sampled": 71424
+    },
+    {
+      "candidate_id": "9-base-A",
+      "kind": "image_url",
+      "url": "https://images.propstore.com/1d74eeab7c4845493d3291ac187692ea-1.jpg",
+      "status": 200,
+      "final_url": "https://images.propstore.com/1d74eeab7c4845493d3291ac187692ea-1.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 35754
+    },
+    {
+      "candidate_id": "10-base-A",
+      "kind": "source_page_url",
+      "url": "https://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html",
+      "status": 200,
+      "final_url": "https://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 378659
+    },
+    {
+      "candidate_id": "10-base-A",
+      "kind": "image_url",
+      "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbkmgiCg8x5ke0znAonSXIEicqHWfrw2N8JF1Ed4je44SdI7e0dnr2v1QNEpx8HkxeCRktVO21ymFhtSOM3ixyloG9l1bZvFDtwr7-XNyLo4V7Jo62DRHqqCM3mFSERC0XSdM47A-zB0/s400/responsibility12(alternate).png",
+      "status": 200,
+      "final_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbkmgiCg8x5ke0znAonSXIEicqHWfrw2N8JF1Ed4je44SdI7e0dnr2v1QNEpx8HkxeCRktVO21ymFhtSOM3ixyloG9l1bZvFDtwr7-XNyLo4V7Jo62DRHqqCM3mFSERC0XSdM47A-zB0/s400/responsibility12(alternate).png",
+      "content_type": "image/png",
+      "bytes_sampled": 33977
+    },
+    {
+      "candidate_id": "13-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.pixar.com/upfilm",
+      "status": 200,
+      "final_url": "https://www.pixar.com/upfilm",
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 697117
+    },
+    {
+      "candidate_id": "13-base-A",
+      "kind": "image_url",
+      "url": "https://images.squarespace-cdn.com/content/v1/60241cb68df65b530cd84d95/524984ff-b5da-44fd-a9b3-9f420c23bf87/carl15.jpg",
+      "status": 200,
+      "final_url": "https://images.squarespace-cdn.com/content/v1/60241cb68df65b530cd84d95/524984ff-b5da-44fd-a9b3-9f420c23bf87/carl15.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 116176
+    },
+    {
+      "candidate_id": "14-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.kartenparadies.at/products/geburtstag-lass-es-mal-richtig-krachen",
+      "status": 200,
+      "final_url": "https://www.kartenparadies.at/products/geburtstag-lass-es-mal-richtig-krachen",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 405352
+    },
+    {
+      "candidate_id": "14-base-A",
+      "kind": "image_url",
+      "url": "https://www.kartenparadies.at/cdn/shop/products/F-A-10innen.jpg?v=1619864324",
+      "status": 200,
+      "final_url": "https://www.kartenparadies.at/cdn/shop/products/F-A-10innen.jpg?v=1619864324",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 1000000
+    },
+    {
+      "candidate_id": "17-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.meme-arsenal.com/en/create/meme/3355963",
+      "status": 200,
+      "final_url": "https://www.meme-arsenal.com/en/create/meme/3355963",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 33857
+    },
+    {
+      "candidate_id": "17-base-A",
+      "kind": "image_url",
+      "url": "https://images.meme-arsenal.com/cbcb0abd2c9b59961b2a651736410fa8.jpg",
+      "status": 200,
+      "final_url": "https://images.meme-arsenal.com/cbcb0abd2c9b59961b2a651736410fa8.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 64744
+    },
+    {
+      "candidate_id": "20-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.midliferun.today/blog/2017/7/21/cim-training-the-beginning-its-time-to-sweat-again",
+      "status": 200,
+      "final_url": "https://www.midliferun.today/blog/2017/7/21/cim-training-the-beginning-its-time-to-sweat-again",
+      "content_type": "text/html;charset=utf-8",
+      "bytes_sampled": 169393
+    },
+    {
+      "candidate_id": "20-base-A",
+      "kind": "image_url",
+      "url": "https://images.squarespace-cdn.com/content/v1/5532ef55e4b06631eac2e194/1500696446556-KD7R4H6G6DRWRX5XIGBS/image-asset.jpeg",
+      "status": 200,
+      "final_url": "https://images.squarespace-cdn.com/content/v1/5532ef55e4b06631eac2e194/1500696446556-KD7R4H6G6DRWRX5XIGBS/image-asset.jpeg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 1000000
+    },
+    {
+      "candidate_id": "21-base-A",
+      "kind": "source_page_url",
+      "url": "https://tenor.com/view/clicking-mouse-gif-25181352",
+      "status": 200,
+      "final_url": "https://tenor.com/view/clicking-mouse-gif-25181352",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 121988
+    },
+    {
+      "candidate_id": "21-base-A",
+      "kind": "image_url",
+      "url": "https://media1.tenor.com/m/x6BpJ7fthtIAAAAC/clicking-mouse.gif",
+      "status": 200,
+      "final_url": "https://media1.tenor.com/m/x6BpJ7fthtIAAAAC/clicking-mouse.gif",
+      "content_type": "image/gif",
+      "bytes_sampled": 44345
+    },
+    {
+      "candidate_id": "24-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.rhein-lahn-kreis.de/aktuelles/2024/briefwahlen-fuer-europa-und-kommunalwahlen-2024-im-rhein-lahn-kreis-welcher-zettel-muss-in-welchen-umschlag/",
+      "status": 200,
+      "final_url": "https://www.rhein-lahn-kreis.de/aktuelles/2024/briefwahlen-fuer-europa-und-kommunalwahlen-2024-im-rhein-lahn-kreis-welcher-zettel-muss-in-welchen-umschlag/",
+      "content_type": "text/html;charset=UTF-8",
+      "bytes_sampled": 143397
+    },
+    {
+      "candidate_id": "24-base-A",
+      "kind": "image_url",
+      "url": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/politik-und-gremien/pen-2181101-1920.jpg?cid=68b.t0d",
+      "status": 200,
+      "final_url": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/politik-und-gremien/pen-2181101-1920.jpg?cid=68b.t0d",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 813299
+    },
+    {
+      "candidate_id": "30-base-A",
+      "kind": "source_page_url",
+      "url": "https://tenor.com/view/mr-bean-rowan-atkinson-phone-call-hello-who-is-it-gif-18020495",
+      "status": 200,
+      "final_url": "https://tenor.com/view/mr-bean-rowan-atkinson-phone-call-hello-who-is-it-gif-18020495",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 117754
+    },
+    {
+      "candidate_id": "30-base-A",
+      "kind": "image_url",
+      "url": "https://media1.tenor.com/m/1_KLvk5nIBkAAAAC/mr-bean-rowan-atkinson.gif",
+      "status": 200,
+      "final_url": "https://media1.tenor.com/m/1_KLvk5nIBkAAAAC/mr-bean-rowan-atkinson.gif",
+      "content_type": "image/gif",
+      "bytes_sampled": 1000000
+    },
+    {
+      "candidate_id": "35-base-A",
+      "kind": "source_page_url",
+      "url": "https://talking-animals.com/work/arte-42.html",
+      "status": 200,
+      "final_url": "https://talking-animals.com/work/arte-42.html",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 8796
+    },
+    {
+      "candidate_id": "35-base-A",
+      "kind": "image_url",
+      "url": "https://i.vimeocdn.com/video/1567837072-46964d97bbfd701a20f17972be34b49b2d093e6ce1ee18498a6e5efe7ea764ef-d?f=webp",
+      "status": 200,
+      "final_url": "https://i.vimeocdn.com/video/1567837072-46964d97bbfd701a20f17972be34b49b2d093e6ce1ee18498a6e5efe7ea764ef-d?f=webp",
+      "content_type": "image/webp",
+      "bytes_sampled": 84084
+    },
+    {
+      "candidate_id": "39-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.meme-arsenal.com/create/template/6977211",
+      "status": 200,
+      "final_url": "https://www.meme-arsenal.com/create/template/6977211",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 93733
+    },
+    {
+      "candidate_id": "39-base-A",
+      "kind": "image_url",
+      "url": "https://images.meme-arsenal.com/e5e190ac018aae44ce79be995fac2a17.jpg",
+      "status": 200,
+      "final_url": "https://images.meme-arsenal.com/e5e190ac018aae44ce79be995fac2a17.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 44364
+    },
+    {
+      "candidate_id": "40-base-A",
+      "kind": "source_page_url",
+      "url": "https://tenor.com/view/sesame-street-cookie-monster-eats-your-art-eating-muppet-crazy-eyes-gif-1461380403278441959",
+      "status": 200,
+      "final_url": "https://tenor.com/view/sesame-street-cookie-monster-eats-your-art-eating-muppet-crazy-eyes-gif-1461380403278441959",
+      "content_type": "text/html; charset=utf-8",
+      "bytes_sampled": 132559
+    },
+    {
+      "candidate_id": "40-base-A",
+      "kind": "image_url",
+      "url": "https://media1.tenor.com/m/FEfdu-sg7ecAAAAC/sesame-street-cookie-monster-eats-your-art.gif",
+      "status": 200,
+      "final_url": "https://media1.tenor.com/m/FEfdu-sg7ecAAAAC/sesame-street-cookie-monster-eats-your-art.gif",
+      "content_type": "image/gif",
+      "bytes_sampled": 1000000
+    },
+    {
+      "candidate_id": "42-base-A",
+      "kind": "source_page_url",
+      "url": "https://schwarzer-kaffee.com/100-prozent-auf-arbeit/",
+      "status": 200,
+      "final_url": "https://schwarzer-kaffee.com/100-prozent-auf-arbeit/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 57593
+    },
+    {
+      "candidate_id": "42-base-A",
+      "kind": "image_url",
+      "url": "https://schwarzer-kaffee.com/bilder/2023/07/IMG-20230724-WA0000.jpg",
+      "status": 200,
+      "final_url": "https://schwarzer-kaffee.com/bilder/2023/07/IMG-20230724-WA0000.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 55400
+    },
+    {
+      "candidate_id": "11-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.filmposter-archiv.de/filmplakat.php?id=3757",
+      "status": 200,
+      "final_url": "https://www.filmposter-archiv.de/filmplakat.php?id=3757",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes_sampled": 8471
+    },
+    {
+      "candidate_id": "11-base-A",
+      "kind": "image_url",
+      "url": "https://www.filmposter-archiv.de/filmplakat/1990/kevin_allein_zu_haus.jpg",
+      "status": 200,
+      "final_url": "https://www.filmposter-archiv.de/filmplakat/1990/kevin_allein_zu_haus.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 100552
+    }
+  ],
+  "superseded_checks": [
+    {
+      "candidate_id": "11-base-A",
+      "kind": "source_page_url",
+      "url": "https://www.thalia-potsdam.de/einmalig/adventskino/",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "candidate_id": "11-base-A",
+      "kind": "image_url",
+      "url": "https://www.thalia-potsdam.de/fileadmin/_processed_/3/b/csm_kevin-allein-zu-haus-poster_2e530aeb53.jpg",
+      "status": 200,
+      "final_url": "https://www.thalia-potsdam.de/fileadmin/_processed_/3/b/csm_kevin-allein-zu-haus-poster_2e530aeb53.jpg",
+      "content_type": "image/jpeg",
+      "bytes_sampled": 139661
+    }
+  ]
+}

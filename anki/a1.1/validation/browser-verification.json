@@ -1,0 +1,35 @@
+{
+  "network": "offline",
+  "client": "isolated headless Google Chrome",
+  "preview_cards_checked": 528,
+  "package_answers_checked": 16,
+  "gif_playback": {
+    "6-base-A": {
+      "preview_distinct_frames": 5,
+      "package_answer_distinct_frames": 5,
+      "gallery_distinct_frames": 4
+    },
+    "21-base-A": {
+      "preview_distinct_frames": 4,
+      "package_answer_distinct_frames": 4,
+      "gallery_distinct_frames": 5
+    },
+    "30-base-A": {
+      "preview_distinct_frames": 5,
+      "package_answer_distinct_frames": 5,
+      "gallery_distinct_frames": 5
+    },
+    "40-base-A": {
+      "preview_distinct_frames": 5,
+      "package_answer_distinct_frames": 5,
+      "gallery_distinct_frames": 5
+    }
+  },
+  "preview_audio_click_playback": true,
+  "preview_no_autoplay_during_528_card_navigation": true,
+  "package_audio_click_playback": true,
+  "gallery_all_16_images_visible": true,
+  "mobile_no_horizontal_overflow": true,
+  "javascript_errors": [],
+  "desktop_layout_checked": true
+}

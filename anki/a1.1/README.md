@@ -1,38 +1,44 @@
-# German A1.1 — text and audio
+# German A1.1 — approved Deck 01 visuals
 
-Approved on 25 October 2026: one Anki package with 18 numbered subdecks, in the order of `x-flashcards-a1.1.md`. Decks 01–17 each contain 30 cards; Deck 18 contains 18. All 528 source cards, including repeated source entries, are retained. No additional vocabulary or images are added.
+528 cards in their original order across 18 numbered subdecks: Decks 01–17 contain 30 cards each; Deck 18 contains 18. Deck 01 has **16 approved images (4 animated GIFs)** and **14 deliberate gaps**. Decks 02–18 remain text/audio with no images. The user approved all 16 gallery proposals on 26 October 2026 (exact message: “approve all”); rejected candidates are excluded.
 
-The front shows German, its supplied supplementary forms and a pronunciation button. The back shows only the English meaning. The blue design is retained. Audio uses `de-DE-KatjaNeural`, 10% slower, and plays only when clicked. It reads headwords, noun articles and lexical alternatives; dictionary plural annotations and grammatical labels are not read. MP3 files will be bundled for offline use.
+The blue design, German fronts, supplementary forms, English meanings and 525 original MP3 clips are preserved. Audio uses `de-DE-KatjaNeural`, 10% slower, and plays only when clicked. Backs contain the existing English meaning and optional approved image; all explanations, sources and credits remain outside study cards.
 
-## Current status
+## Artifacts
 
-- All 528 cards have been converted and checked against the classified source and original fields.
-- [decks.md](decks.md) contains the complete text grouped into the 18 decks.
-- [preview.html](preview.html) previews every card offline. Six matching prototype recordings are available; other pronunciation buttons are disabled until audio is generated.
-- The cards require 525 unique recordings. Six were reused; **519 remain to be generated**. Identical spoken text shares a recording, while repeated source cards remain separate.
-- The execution environment cannot reach the speech service; its approval policy rejected the request for network access.
-- **The final `german-a1.1.apkg` has not been created.** The builder refuses to create it until every recording exists.
+- [german-a1.1.apkg](german-a1.1.apkg): rebuilt package with all media bundled offline.
+- [preview.html](preview.html): self-contained offline study preview for all 528 cards, including embedded audio and animated images.
+- [Candidate gallery](image-candidates/index.html): all 30 Deck 01 cards, exact chosen IDs, images, sources, rationale and gaps.
+- [Canonical manifest](image-candidates/manifest.json): approved assignments keyed by stable card IDs, source URLs, approved asset hashes, exact approval and validation references. Historical batch files are research snapshots only.
+- [verification.json](verification.json): current package checks and SHA256.
+- [Research memory](../../docs/anki-deck-01-visual-research.md): actual searches, rejections, approval, integration evidence and handoff.
 
-## Complete the package
+## Rebuild
 
-Run from a terminal with internet access:
+With the existing environment/audio cache, no network is needed:
 
 ```sh
-bash anki/a1.1/finish.sh
+anki/a1.1/.venv/bin/python anki/a1.1/build.py prepare
+anki/a1.1/.venv/bin/python anki/a1.1/build.py build
+anki/a1.1/.venv/bin/python anki/a1.1/build.py verify
 ```
 
-The script creates a local Python environment, installs the pinned dependencies, generates the missing audio, builds `german-a1.1.apkg`, refreshes the preview and checks the package. Completed clips are cached, so rerunning resumes interrupted audio generation.
+`prepare()` regenerates vocabulary/card data, while approved images remain in the separate persistent manifest. `build()` resolves only approved/integrated selections, checks the card/deck and exact asset hashes, copies them to media, and packages only referenced approved images plus all pronunciation clips. Keep `image-candidates/assets/` when rebuilding. Images survive repeated preparation/rebuilding, verified in [persistence.json](validation/persistence.json).
 
-Activation is optional because the script invokes the environment's Python directly. To activate it for manual commands, run `source anki/a1.1/.venv/bin/activate`. If an earlier setup failed, leave it inactive while rerunning `finish.sh`; the script automatically rebuilds incomplete environments using the resolved Python installation path. Run `bash anki/a1.1/finish.sh --setup-only` to check just the environment and pip without downloading dependencies or generating audio.
+For a fresh environment or missing audio, `bash anki/a1.1/finish.sh` sets up pinned dependencies and generates any missing pronunciation clips before building. Completed audio is cached. Its `--setup-only` option checks environment setup.
 
-Once built, import `german-a1.1.apkg` using Anki's Import command. It contains `German A1.1::Deck 01` through `German A1.1::Deck 18`. Study order follows the source when Anki is configured to introduce new cards in order. Device playback has not yet been tested in the learner's Anki installation.
+## Import and compatibility
+
+Import `german-a1.1.apkg` using Anki's Import command. The nine original field names/ordinals, model identity 1792936801, deck IDs, GUID convention and templates are unchanged. Approved image HTML follows the exact English meaning in the existing English answer field; no field was added. Vocabulary `cards.json` and original source fields remain unchanged.
+
+An upgrade from the pre-image package was tested using default import options in disposable collections on Anki 25.02.5 (matching the installed app) and 26.9.3. All 528 existing notes/cards updated without duplicates; internal IDs, deck assignments, reviewed/lapsed intervals and suspension state were preserved. Repeating import added no duplicates or scheduler changes. See [25.02.5](validation/reimport-25-02-5.json) and [26.9.3](validation/reimport-26-9-3.json) reports. Personal Anki data was never accessed. Reimport into locally customized note types has not been tested.
 
 ## Validation
 
-The package builder was exercised in a temporary directory using an existing MP3 as a structural test fixture. Checks passed for 528 distinct notes and forward cards, all source fields and translations, source order, the 18 deck sizes, bundled media references, English-only answers, and absence of images and autoplay. The fixture package and audio were discarded; this does not validate recordings that have not been generated.
+- Archive/database integrity; 528 distinct notes/cards; original source order, repeats and 18 deck sizes; exact approved image assignment; no images in gaps or Decks 02–18.
+- [Preservation check](validation/preservation.json): all 525 MP3s byte-for-byte identical to the real old package; vocabulary, original fields, GUIDs, deck IDs, tags, field definitions and templates retained.
+- [Negative checks](validation/verifier-negative-checks.json): verifier rejects images in Deck 02/gaps, wrong assignments, changed audio and autoplay; assignment resolver rejects other-deck images.
+- [Offline browser check](validation/browser-verification.json): all 528 preview cards match exact German/English, all 16 images load, all 4 GIFs animate in gallery/preview/Anki-rendered answers, click-only audio plays, no JS errors or horizontal overflow at 390px.
+- [Installed Anki client check](validation/anki-client-verification.json): imported all 528 cards into a disposable `/tmp` profile; all 4 GIFs visibly animate in Anki 25.02.5's AnkiWebView/QtWebEngine. Actual raster-frame differences and screenshots recorded.
 
-The real build will write `verification.json` only after checking the completed package. To repeat that check:
-
-```sh
-anki/a1.1/.venv/bin/python anki/a1.1/build.py verify
-```
+AnkiMobile, AnkiDroid and the learner's personal collection/device have not been tested. Browser 390px checks simulate a small screen; they are not physical-device testing. Recording bytes are preserved; no claim of listening to all 525 recordings is made.

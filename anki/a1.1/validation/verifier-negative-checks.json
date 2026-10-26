@@ -1,0 +1,8 @@
+{
+  "image_in_deck02": "rejected",
+  "image_in_intentional_gap": "rejected",
+  "wrong_approved_assignment": "rejected",
+  "audio_autoplay": "rejected",
+  "changed_mp3_bytes": "rejected",
+  "manifest_assignment_outside_deck01": "rejected"
+}

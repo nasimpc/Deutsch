@@ -1,0 +1,538 @@
+{
+  "1-base": {
+    "card_id": "1-base",
+    "position": 1,
+    "german": "ab (ab heute)",
+    "english": "from (from today)",
+    "status": "Gap",
+    "gap_reason": "No strong visual for the temporal from (from today) surfaced. Departure pictures would teach a different use of ab.",
+    "candidates": [],
+    "recommended_candidate_id": null,
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "2-base": {
+    "card_id": "2-base",
+    "position": 2,
+    "german": "aber",
+    "english": "but",
+    "status": "Gap",
+    "gap_reason": "Classroom clauses and generic reaction memes do not create a clear aber → but cue; no forced bear/butt association.",
+    "candidates": [],
+    "recommended_candidate_id": null,
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "6-base": {
+    "card_id": "6-base",
+    "position": 3,
+    "german": "abholen",
+    "english": "to pick up / collect",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "6-base-A",
+        "title": "Pickup at school",
+        "status": "awaiting selection",
+        "source_page_url": "https://tenor.com/view/mean-girls-shopping-gif-23164018",
+        "image_url": "https://media1.tenor.com/m/IF4OlkPc6rAAAAAC/mean-girls.gif",
+        "creator": "Mean Girls (2004), Paramount; Tenor uploader blupanderz",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/6-base-A.gif",
+        "asset_type": "animated GIF",
+        "format": "GIF",
+        "dimensions": [
+          498,
+          244
+        ],
+        "file_size_bytes": 408347,
+        "sha256": "844c0099e5a5dc28e2bcbe0551eacb03a2261b48d404601471842ef7bdaefdb6",
+        "frames": 5,
+        "memory_connection": "The car has arrived to collect someone: the existing invitation makes the pickup scene easy to remember.",
+        "match_type": "meaning-only fallback",
+        "ambiguities": "Does not encode abholen by sound; shopping is incidental. Covers collecting a person rather than every kind of collection.",
+        "quality": "Recommended for review; clear meaning, weaker German retrieval",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": true,
+          "offline_browser_playback": "pending"
+        },
+        "transformations": "Unmodified download",
+        "search_ids": [
+          "S001",
+          "S003",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "6-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "8-base": {
+    "card_id": "8-base",
+    "position": 4,
+    "german": "Achtung!",
+    "english": "attention! / watch out!",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "8-base-A",
+        "title": "Watch out for ducks",
+        "status": "awaiting selection",
+        "source_page_url": "https://schildbruder.de/produkt/schilder/schild-achtung-enten/",
+        "image_url": "https://schildbruder.de/storage/2024/11/10000621_Achtung_Enten.jpg",
+        "creator": "Schildbruder retailer; individual designer unknown",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/8-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          800,
+          800
+        ],
+        "file_size_bytes": 70923,
+        "sha256": "57c6cbdf1c3f7cbd6375b3e43b508f7a427a03a2d24d68bc281ebbc22974d17b",
+        "frames": 1,
+        "memory_connection": "The exact German Achtung appears above a warning triangle containing an unexpectedly important duck: Achtung → watch out!",
+        "match_type": "German-word mnemonic",
+        "ambiguities": "Enten is extra vocabulary inside the original asset; warning is more concrete than attention in general.",
+        "quality": "Recommended for review; direct German word/cognate connection",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Unmodified download",
+        "search_ids": [
+          "S002",
+          "S003",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "8-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "9-base": {
+    "card_id": "9-base",
+    "position": 5,
+    "german": "die Adresse, Adressen",
+    "english": "address",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "9-base-A",
+        "title": "Harry Potter’s very specific address",
+        "status": "awaiting selection",
+        "source_page_url": "https://propstore.com/product/harry-potter-and-the-philosophers-stone-2001/lot-164-hero-wax-sealed-hogwarts-acceptance-letter/",
+        "image_url": "https://images.propstore.com/1d74eeab7c4845493d3291ac187692ea-1.jpg",
+        "creator": "Harry Potter and the Philosopher’s Stone (2001); Propstore prop photograph; photographer unknown",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/9-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          734,
+          734
+        ],
+        "file_size_bytes": 35754,
+        "sha256": "54a2084641cf0845cc3d7771e85a9c61a989c4b761aa3b78f1751607d764df03",
+        "frames": 1,
+        "memory_connection": "Adresse resembles address; Harry’s unusually precise cupboard address turns that familiar spelling into a memorable delivered letter.",
+        "match_type": "German-word mnemonic",
+        "ambiguities": "Cognate-plus-scene aid, not a pronunciation guide. Shows a postal address rather than an email address. No new label is added.",
+        "quality": "Recommended for review; direct German word/cognate connection",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Unmodified download",
+        "search_ids": [
+          "S003",
+          "S006",
+          "S007",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "9-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "10-base": {
+    "card_id": "10-base",
+    "position": 6,
+    "german": "alle / alles",
+    "english": "all (everything)",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "10-base-A",
+        "title": "Clean ALL the things",
+        "status": "awaiting selection",
+        "source_page_url": "https://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html",
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbkmgiCg8x5ke0znAonSXIEicqHWfrw2N8JF1Ed4je44SdI7e0dnr2v1QNEpx8HkxeCRktVO21ymFhtSOM3ixyloG9l1bZvFDtwr7-XNyLo4V7Jo62DRHqqCM3mFSERC0XSdM47A-zB0/s400/responsibility12(alternate).png",
+        "creator": "Allie Brosh, Hyperbole and a Half, This is Why I’ll Never be an Adult (2010)",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/10-base-A.png",
+        "asset_type": "static image",
+        "format": "PNG",
+        "dimensions": [
+          400,
+          300
+        ],
+        "file_size_bytes": 33977,
+        "sha256": "9615b4a5133fb67fb1f82d22c6af1c058a30445faa370ee8fea4219dfbe73157",
+        "frames": 1,
+        "memory_connection": "Alle / alles begins like English all; the cartoon’s emphatic ALL THE THINGS anchors the everything meaning with comic overenthusiasm.",
+        "match_type": "German-word mnemonic",
+        "ambiguities": "English spelling association only, not exact German pronunciation. Cleaning is the scene, not the word being learned.",
+        "quality": "Recommended for review; direct German word/cognate connection",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Unmodified download",
+        "search_ids": [
+          "S002",
+          "S003",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "10-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "11-base": {
+    "card_id": "11-base",
+    "position": 7,
+    "german": "allein",
+    "english": "alone",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "11-base-A",
+        "title": "Kevin – Allein zu Haus",
+        "status": "awaiting selection",
+        "source_page_url": "https://www.thalia-potsdam.de/einmalig/adventskino/",
+        "image_url": "https://www.thalia-potsdam.de/fileadmin/_processed_/3/b/csm_kevin-allein-zu-haus-poster_2e530aeb53.jpg",
+        "creator": "Home Alone (1990), German cinema poster from Thalia Potsdam; title/synopsis corroborated by Disney+",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/11-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          600,
+          841
+        ],
+        "file_size_bytes": 139661,
+        "sha256": "803a7e94820c5c4076a8464a8bb8e4de946dbb5faddf0ab578062d2c3a470981",
+        "frames": 1,
+        "memory_connection": "The existing German title puts allein on the familiar Home Alone poster: alone is Kevin’s entire predicament.",
+        "match_type": "German-word mnemonic",
+        "ambiguities": "Works best if you recognize Home Alone. Two burglars also appear; the plot/title, not a head count, carries alone. Small credits are incidental.",
+        "quality": "Recommended for review; direct German word/cognate connection",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Unmodified download",
+        "search_ids": [
+          "S002",
+          "S004",
+          "S006",
+          "S007",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "11-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "12-base": {
+    "card_id": "12-base",
+    "position": 8,
+    "german": "also",
+    "english": "so, thus",
+    "status": "Gap",
+    "gap_reason": "No clear therefore/so visual with a German cue; English also creates a false-friend risk.",
+    "candidates": [],
+    "recommended_candidate_id": null,
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "13-base": {
+    "card_id": "13-base",
+    "position": 9,
+    "german": "alt",
+    "english": "old",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "13-base-A",
+        "title": "Carl from Up",
+        "status": "awaiting selection",
+        "source_page_url": "https://www.pixar.com/upfilm",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/60241cb68df65b530cd84d95/524984ff-b5da-44fd-a9b3-9f420c23bf87/carl15.jpg",
+        "creator": "Disney/Pixar, Carl Fredricksen in Up (2009), official character image",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/13-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          1200,
+          674
+        ],
+        "file_size_bytes": 87357,
+        "sha256": "7dc573e1dde4322578c2a3b1dd08385d592cbd6622e6e6c8fae93c726ace7e71",
+        "frames": 1,
+        "memory_connection": "Carl’s gray hair, wrinkles and oversized glasses make an expressive, recognizable old character.",
+        "match_type": "meaning-only fallback",
+        "ambiguities": "No German sound cue. Describes an old person; alt also describes old objects. Distinct from the Alter card’s noun caption about old age.",
+        "quality": "Recommended for review; clear meaning, weaker German retrieval",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Resized only, max 1200px; aspect ratio, scene and text preserved",
+        "search_ids": [
+          "S004",
+          "S006",
+          "S007",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "13-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "14-base": {
+    "card_id": "14-base",
+    "position": 10,
+    "german": "das Alter",
+    "english": "age, old age",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "14-base-A",
+        "title": "Old age, hippo style",
+        "status": "awaiting selection",
+        "source_page_url": "https://www.kartenparadies.at/products/geburtstag-lass-es-mal-richtig-krachen",
+        "image_url": "https://www.kartenparadies.at/cdn/shop/products/F-A-10innen.jpg?v=1619864324",
+        "creator": "Edition Basic Funny-live series, retailer Kartenparadies; individual illustrator unknown",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/14-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          1200,
+          882
+        ],
+        "file_size_bytes": 171109,
+        "sha256": "617048fc17524a79c6b761403a5d6e5b50a361326429e77da31e460a9b4960ef",
+        "frames": 1,
+        "memory_connection": "The existing caption IM ALTER sits over a hippo with a walking frame making engine noises: old age gets a comic scene and the exact noun.",
+        "match_type": "German-word mnemonic",
+        "ambiguities": "Contains extra German birthday wishes. The noun old age is explicit, unlike alt’s descriptive portrait. Caption fairly long; inspect at small size before choosing.",
+        "quality": "Recommended for review; direct German word/cognate connection",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Resized only, max 1200px; aspect ratio, scene and text preserved",
+        "search_ids": [
+          "S004",
+          "S006",
+          "S007",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "14-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "15-base": {
+    "card_id": "15-base",
+    "position": 11,
+    "german": "an",
+    "english": "on (adv), at (prep)",
+    "status": "Gap",
+    "gap_reason": "Switch results mostly encode EIN or I/O; a single switch also misses at. No useful unified cue.",
+    "candidates": [],
+    "recommended_candidate_id": null,
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "17-base": {
+    "card_id": "17-base",
+    "position": 12,
+    "german": "das Angebot, Angebote",
+    "english": "offer",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "17-base-A",
+        "title": "An offer you can’t refuse",
+        "status": "awaiting selection",
+        "source_page_url": "https://www.meme-arsenal.com/en/create/meme/3355963",
+        "image_url": "https://images.meme-arsenal.com/cbcb0abd2c9b59961b2a651736410fa8.jpg",
+        "creator": "Marlon Brando / Don Vito Corleone, The Godfather (1972); meme author unknown; hosted by Meme-arsenal",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/17-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          600,
+          449
+        ],
+        "file_size_bytes": 64744,
+        "sha256": "d6abd166b25c5d3c698e2ea67d54375a9ccd3b438e15e152c8274985749641bb",
+        "frames": 1,
+        "memory_connection": "The familiar Godfather offer scene already contains Angebot in its German caption: the word leads to an unforgettable offer.",
+        "match_type": "German-word mnemonic",
+        "ambiguities": "Assumes familiarity with the quotation. The threatening offer is an example, not the meaning of all offers. Existing caption remains intact.",
+        "quality": "Recommended for review; direct German word/cognate connection",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Unmodified download",
+        "search_ids": [
+          "S005",
+          "S006",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "17-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "18-base": {
+    "card_id": "18-base",
+    "position": 13,
+    "german": "anderer / andere / anderes",
+    "english": "other",
+    "status": "Gap",
+    "gap_reason": "Search returned unrelated wanderer memes; no clear other contrast with a German cue.",
+    "candidates": [],
+    "recommended_candidate_id": null,
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "19-base": {
+    "card_id": "19-base",
+    "position": 14,
+    "german": "anfangen",
+    "english": "to start",
+    "status": "Gap",
+    "gap_reason": "Bugs Bunny GIF was inspected but loops dancing at a START sign without actually starting. Rejected rather than claiming the action; der Anfang has a separate noun fallback.",
+    "candidates": [],
+    "recommended_candidate_id": null,
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  },
+  "20-base": {
+    "card_id": "20-base",
+    "position": 15,
+    "german": "der Anfang",
+    "english": "start",
+    "status": "Awaiting selection",
+    "gap_reason": null,
+    "candidates": [
+      {
+        "candidate_id": "20-base-A",
+        "title": "The starting point",
+        "status": "awaiting selection",
+        "source_page_url": "https://www.midliferun.today/blog/2017/7/21/cim-training-the-beginning-its-time-to-sweat-again",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5532ef55e4b06631eac2e194/1500696446556-KD7R4H6G6DRWRX5XIGBS/image-asset.jpeg",
+        "creator": "Midlife Run blog photograph; photographer unknown",
+        "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+        "accessed_on": "2026-10-25",
+        "local_path": "assets/20-base-A.jpg",
+        "asset_type": "static image",
+        "format": "JPEG",
+        "dimensions": [
+          1200,
+          801
+        ],
+        "file_size_bytes": 469539,
+        "sha256": "18ef05e9e4068c3d1fd5400b4e9700628459060bc2ea8b430717b2142fb9200a",
+        "frames": 1,
+        "memory_connection": "A bare starting line identifies the noun start as a point/place, without showing someone starting an action.",
+        "match_type": "meaning-only fallback",
+        "ambiguities": "Low humor and no German sound cue. Exact concrete meaning and excellent legibility; optional fallback rather than a top mnemonic. Physical start is narrower than a general beginning.",
+        "quality": "Recommended for review; clear meaning, weaker German retrieval",
+        "inspection": {
+          "source_page_opened": true,
+          "full_visual_inspected": true,
+          "motion_frames_inspected": false,
+          "offline_browser_playback": "not applicable"
+        },
+        "transformations": "Resized only, max 1200px; aspect ratio, scene and text preserved",
+        "search_ids": [
+          "S005",
+          "S006",
+          "S008"
+        ],
+        "user_decision": "pending",
+        "integration_checks": "Not assigned or integrated; approval required"
+      }
+    ],
+    "recommended_candidate_id": "20-base-A",
+    "selected_candidate_id": null,
+    "user_decision": "pending"
+  }
+}

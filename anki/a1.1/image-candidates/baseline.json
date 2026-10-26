@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-25",
+  "phase": "research; no assignments approved",
+  "files": {
+    "cards.json": "369c93d9c9e7b3d3138f3bb2eae15de225d0280ad654116045fc57161afe1a7e",
+    "german-a1.1.apkg": "fc733c93bdb280d4a51de00b1b1570595178ca8a9b69a3c700dffe71fb944c72",
+    "preview.html": "8f338704e38f61e3ee05bb4e0d978ecc2d6c5ea1bfb4d565803be2743e8f57d7",
+    "audio-manifest.json": "35f2789c135337b9d91298f0680bc312f43e1a454c30f48f5c25d8751d6a19a3",
+    "build.py": "170e3c14f519131ea3a7fd5592a40635fb084997e7ef71bdf9b3319e26698995",
+    "preview-template.html": "b6a39237850e4d480addae62432405ae7d38ef46dfdf3af21468c8134e9ae42e"
+  },
+  "verification": {
+    "cards": 528,
+    "decks": 18,
+    "cards_per_deck": [
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      30,
+      18
+    ],
+    "unique_audio_clips": 525,
+    "images": 0,
+    "package_sha256": "fc733c93bdb280d4a51de00b1b1570595178ca8a9b69a3c700dffe71fb944c72",
+    "source_sha256": "e71261f704ef3415a8e096c6708eaa2e01418c4c643b25026df8319d6291c11a",
+    "verified": [
+      "package integrity",
+      "all source entries and meanings",
+      "original fields",
+      "528 distinct notes and forward cards",
+      "source order",
+      "deck sizes",
+      "all audio bundled",
+      "English-only answer",
+      "no images or autoplay"
+    ]
+  },
+  "card_inventory": [
+    {
+      "card_id": "1-base",
+      "german": "ab (ab heute)",
+      "english": "from (from today)",
+      "position": 1
+    },
+    {
+      "card_id": "2-base",
+      "german": "aber",
+      "english": "but",
+      "position": 2
+    },
+    {
+      "card_id": "6-base",
+      "german": "abholen",
+      "english": "to pick up / collect",
+      "position": 3
+    },
+    {
+      "card_id": "8-base",
+      "german": "Achtung!",
+      "english": "attention! / watch out!",
+      "position": 4
+    },
+    {
+      "card_id": "9-base",
+      "german": "die Adresse, Adressen",
+      "english": "address",
+      "position": 5
+    },
+    {
+      "card_id": "10-base",
+      "german": "alle / alles",
+      "english": "all (everything)",
+      "position": 6
+    },
+    {
+      "card_id": "11-base",
+      "german": "allein",
+      "english": "alone",
+      "position": 7
+    },
+    {
+      "card_id": "12-base",
+      "german": "also",
+      "english": "so, thus",
+      "position": 8
+    },
+    {
+      "card_id": "13-base",
+      "german": "alt",
+      "english": "old",
+      "position": 9
+    },
+    {
+      "card_id": "14-base",
+      "german": "das Alter",
+      "english": "age, old age",
+      "position": 10
+    },
+    {
+      "card_id": "15-base",
+      "german": "an",
+      "english": "on (adv), at (prep)",
+      "position": 11
+    },
+    {
+      "card_id": "17-base",
+      "german": "das Angebot, Angebote",
+      "english": "offer",
+      "position": 12
+    },
+    {
+      "card_id": "18-base",
+      "german": "anderer / andere / anderes",
+      "english": "other",
+      "position": 13
+    },
+    {
+      "card_id": "19-base",
+      "german": "anfangen",
+      "english": "to start",
+      "position": 14
+    },
+    {
+      "card_id": "20-base",
+      "german": "der Anfang",
+      "english": "start",
+      "position": 15
+    },
+    {
+      "card_id": "21-base",
+      "german": "anklicken (etw. Akk.)",
+      "english": "to click something",
+      "position": 16
+    },
+    {
+      "card_id": "24-base",
+      "german": "ankreuzen",
+      "english": "to tick / mark with a cross",
+      "position": 17
+    },
+    {
+      "card_id": "26-base",
+      "german": "sich anmelden (Akk.)",
+      "english": "to register / enrol",
+      "position": 18
+    },
+    {
+      "card_id": "27-base",
+      "german": "die Anmeldung",
+      "english": "application, registration",
+      "position": 19
+    },
+    {
+      "card_id": "28-base",
+      "german": "die Anrede",
+      "english": "form of address",
+      "position": 20
+    },
+    {
+      "card_id": "29-base",
+      "german": "anrufen",
+      "english": "to telephone",
+      "position": 21
+    },
+    {
+      "card_id": "30-base",
+      "german": "der Anruf, Anrufe",
+      "english": "telephone call",
+      "position": 22
+    },
+    {
+      "card_id": "31-base",
+      "german": "der Anrufbeantworter",
+      "english": "answering machine",
+      "position": 23
+    },
+    {
+      "card_id": "34-base",
+      "german": "antworten",
+      "english": "to answer",
+      "position": 24
+    },
+    {
+      "card_id": "35-base",
+      "german": "die Antwort, Antworten",
+      "english": "answer",
+      "position": 25
+    },
+    {
+      "card_id": "36-base",
+      "german": "die Anzeige, Anzeigen",
+      "english": "advertisement",
+      "position": 26
+    },
+    {
+      "card_id": "39-base",
+      "german": "der Apfel, Äpfel",
+      "english": "apple",
+      "position": 27
+    },
+    {
+      "card_id": "40-base",
+      "german": "der Appetit",
+      "english": "appetite",
+      "position": 28
+    },
+    {
+      "card_id": "41-base",
+      "german": "arbeiten",
+      "english": "to work",
+      "position": 29
+    },
+    {
+      "card_id": "42-base",
+      "german": "die Arbeit, Arbeiten",
+      "english": "work",
+      "position": 30
+    }
+  ],
+  "model_id": 1792936801,
+  "deck_base": 1792936900,
+  "fields": [
+    "ID",
+    "Headword",
+    "Details",
+    "English",
+    "Audio",
+    "OriginalGerman",
+    "OriginalEnglish",
+    "SpokenGerman",
+    "SourceID"
+  ],
+  "guid_convention": "genanki.guid_for('german-a1.1-study', card['card_id'])"
+}

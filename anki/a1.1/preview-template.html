@@ -24,7 +24,7 @@ button:disabled { opacity:.45; cursor:default; }
 <div class="controls"><label>Deck <select id="deck"></select></label><label>Card <select id="card"></select></label><button id="previous">← Previous</button><button id="next">Next →</button></div>
 <div class="faces">
 <section><p class="caption">Front · German and pronunciation</p><div class="sample-card theme-clean side-front" lang="de"><div class="word" id="german"></div><div class="forms" id="details"></div><div class="sound"><button class="pronounce" id="play" aria-label="Play German pronunciation">▶</button></div><p class="status" id="audio-status" aria-live="polite"></p></div></section>
-<section><p class="caption">Back · English</p><div class="sample-card theme-clean side-back" lang="en"><div class="meaning" id="english"></div></div></section>
+<section><p class="caption">Back · English and optional image</p><div class="sample-card theme-clean side-back" lang="en"><div class="meaning" id="english"></div><div class="visual" id="visual" hidden></div></div></section>
 </div>
 <p class="status" id="position"></p>
 </main>
@@ -43,6 +43,15 @@ function render() {
  byId('german').textContent=c.headword;
  byId('details').textContent=c.details;
  byId('english').textContent=c.english;
+ const visual=byId('visual');
+ visual.replaceChildren();
+ visual.hidden=!DATA.images[c.card_id];
+ if(DATA.images[c.card_id]) {
+  const img=document.createElement('img');
+  img.src=DATA.images[c.card_id];
+  img.alt='';
+  visual.append(img);
+ }
  byId('play').disabled=!DATA.audio[c.audio];
  byId('audio-status').textContent=DATA.audio[c.audio]?'Click to hear German.':'Pronunciation clip awaiting generation.';
  byId('position').textContent='Card '+c.position+' of 528 · Source '+c.source_label;

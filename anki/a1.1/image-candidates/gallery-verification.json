@@ -1,0 +1,59 @@
+{
+  "phase": "research; awaiting user approval",
+  "cards_searched": 30,
+  "cards_in_order": 30,
+  "cards_with_candidates": 16,
+  "gaps": 14,
+  "approved_assignments": 0,
+  "baseline_files_unchanged": {
+    "cards.json": true,
+    "german-a1.1.apkg": true,
+    "preview.html": true,
+    "audio-manifest.json": true,
+    "build.py": true,
+    "preview-template.html": true
+  },
+  "browser": {
+    "client": "headless installed Google Chrome",
+    "network": "offline",
+    "all_local_images_visible": true,
+    "javascript_errors": [],
+    "desktop_viewport": [
+      1280,
+      900
+    ],
+    "mobile_viewport": [
+      390,
+      844
+    ],
+    "horizontal_overflow": false,
+    "review_selection_controls": "passed",
+    "filter_controls": "passed"
+  },
+  "gif_playback": {
+    "6-base-A": {
+      "offline": true,
+      "distinct_rendered_frames": 4,
+      "animated": true
+    },
+    "21-base-A": {
+      "offline": true,
+      "distinct_rendered_frames": 3,
+      "animated": true
+    },
+    "30-base-A": {
+      "offline": true,
+      "distinct_rendered_frames": 5,
+      "animated": true
+    },
+    "40-base-A": {
+      "offline": true,
+      "distinct_rendered_frames": 5,
+      "animated": true
+    }
+  },
+  "limitations": [
+    "No images integrated; study preview/package still text and audio only.",
+    "No Anki import or device image validation performed during research."
+  ]
+}

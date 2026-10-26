@@ -1,0 +1,1260 @@
+{
+  "schema_version": 1,
+  "scope": "German A1.1::Deck 01 only",
+  "phase": "Complete:16 approved images integrated in Deck01;14 intentional gaps; validated2026-10-26",
+  "date": "2026-10-25",
+  "canonical": true,
+  "assignments_approved": {
+    "6-base": {
+      "candidate_id": "6-base-A",
+      "media_file": "a11_visual_6-base-A.gif",
+      "sha256": "844c0099e5a5dc28e2bcbe0551eacb03a2261b48d404601471842ef7bdaefdb6"
+    },
+    "8-base": {
+      "candidate_id": "8-base-A",
+      "media_file": "a11_visual_8-base-A.jpg",
+      "sha256": "57c6cbdf1c3f7cbd6375b3e43b508f7a427a03a2d24d68bc281ebbc22974d17b"
+    },
+    "9-base": {
+      "candidate_id": "9-base-A",
+      "media_file": "a11_visual_9-base-A.jpg",
+      "sha256": "54a2084641cf0845cc3d7771e85a9c61a989c4b761aa3b78f1751607d764df03"
+    },
+    "10-base": {
+      "candidate_id": "10-base-A",
+      "media_file": "a11_visual_10-base-A.png",
+      "sha256": "9615b4a5133fb67fb1f82d22c6af1c058a30445faa370ee8fea4219dfbe73157"
+    },
+    "11-base": {
+      "candidate_id": "11-base-A",
+      "media_file": "a11_visual_11-base-A.jpg",
+      "sha256": "791d7c3ff9c05cd0eef6008b3c5b46d4cad5f1e2f5ca1cca2cbc92eae9cbb28a"
+    },
+    "13-base": {
+      "candidate_id": "13-base-A",
+      "media_file": "a11_visual_13-base-A.jpg",
+      "sha256": "7dc573e1dde4322578c2a3b1dd08385d592cbd6622e6e6c8fae93c726ace7e71"
+    },
+    "14-base": {
+      "candidate_id": "14-base-A",
+      "media_file": "a11_visual_14-base-A.jpg",
+      "sha256": "347c3e4091f0b37d5d7f2455161af8539275ee157e23f1a72769180d3effe9b3"
+    },
+    "17-base": {
+      "candidate_id": "17-base-A",
+      "media_file": "a11_visual_17-base-A.jpg",
+      "sha256": "d6abd166b25c5d3c698e2ea67d54375a9ccd3b438e15e152c8274985749641bb"
+    },
+    "20-base": {
+      "candidate_id": "20-base-A",
+      "media_file": "a11_visual_20-base-A.jpg",
+      "sha256": "18ef05e9e4068c3d1fd5400b4e9700628459060bc2ea8b430717b2142fb9200a"
+    },
+    "21-base": {
+      "candidate_id": "21-base-A",
+      "media_file": "a11_visual_21-base-A.gif",
+      "sha256": "c8b30ff367b4caa6e297a4afc6a4f542bbe3cbf737f2e5c8dcdeb0a36bfd3bf7"
+    },
+    "24-base": {
+      "candidate_id": "24-base-A",
+      "media_file": "a11_visual_24-base-A.jpg",
+      "sha256": "93103d9b7c1bd34856d574224e15d806177ec9b49a7b7d78200dc296773aebc1"
+    },
+    "30-base": {
+      "candidate_id": "30-base-A",
+      "media_file": "a11_visual_30-base-A.gif",
+      "sha256": "bd483861584db45cb99af9137453f2c1e3590035b88930ae926a0eac19c5a625"
+    },
+    "35-base": {
+      "candidate_id": "35-base-A",
+      "media_file": "a11_visual_35-base-A.webp",
+      "sha256": "18b2cd7be46e23a9b95a41d5ba9b396e6def6a4ce040d1522114d114b192836d"
+    },
+    "39-base": {
+      "candidate_id": "39-base-A",
+      "media_file": "a11_visual_39-base-A.jpg",
+      "sha256": "fe81878443224d70e174b2835a8b825b580171617d66092a137a5c2f01d27c69"
+    },
+    "40-base": {
+      "candidate_id": "40-base-A",
+      "media_file": "a11_visual_40-base-A.gif",
+      "sha256": "041a32ea7a22cd71baa7ea7a69285b33fe9480f074d599dcca7d37cadf3f6dc3"
+    },
+    "42-base": {
+      "candidate_id": "42-base-A",
+      "media_file": "a11_visual_42-base-A.jpg",
+      "sha256": "a7a1346ef54aa439397b4a4041c609b00a2049a8e8ef8f80c742eaa1909a7e40"
+    }
+  },
+  "cards": {
+    "1-base": {
+      "card_id": "1-base",
+      "position": 1,
+      "german": "ab (ab heute)",
+      "english": "from (from today)",
+      "status": "Gap",
+      "gap_reason": "No strong visual for the temporal from (from today) surfaced. Departure pictures would teach a different use of ab.",
+      "candidates": [],
+      "recommended_candidate_id": null,
+      "selected_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "2-base": {
+      "card_id": "2-base",
+      "position": 2,
+      "german": "aber",
+      "english": "but",
+      "status": "Gap",
+      "gap_reason": "Classroom clauses and generic reaction memes do not create a clear aber → but cue; no forced bear/butt association.",
+      "candidates": [],
+      "recommended_candidate_id": null,
+      "selected_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "6-base": {
+      "card_id": "6-base",
+      "position": 3,
+      "german": "abholen",
+      "english": "to pick up / collect",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "6-base-A",
+          "title": "Pickup at school",
+          "status": "integrated",
+          "source_page_url": "https://tenor.com/view/mean-girls-shopping-gif-23164018",
+          "image_url": "https://media1.tenor.com/m/IF4OlkPc6rAAAAAC/mean-girls.gif",
+          "creator": "Mean Girls (2004), Paramount; Tenor uploader blupanderz",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/6-base-A.gif",
+          "asset_type": "animated GIF",
+          "format": "GIF",
+          "dimensions": [
+            498,
+            244
+          ],
+          "file_size_bytes": 408347,
+          "sha256": "844c0099e5a5dc28e2bcbe0551eacb03a2261b48d404601471842ef7bdaefdb6",
+          "frames": 5,
+          "memory_connection": "The car has arrived to collect someone: the existing invitation makes the pickup scene easy to remember.",
+          "match_type": "meaning-only fallback",
+          "ambiguities": "Does not encode abholen by sound; shopping is incidental. Covers collecting a person rather than every kind of collection.",
+          "quality": "Recommended for review; clear meaning, weaker German retrieval",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": true,
+            "offline_browser_playback": "Verified in gallery, study preview and package answer",
+            "integration_verified": true,
+            "anki_client_playback": "Verified rendered-frame changes in installed Anki25.02.5 AnkiWebView, disposable /tmp profile"
+          },
+          "transformations": "Unmodified download",
+          "search_ids": [
+            "S001",
+            "S003",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. GIF visibly animates offline in gallery/preview and in installed Anki25.02.5 AnkiWebView, isolated profile.",
+          "packaged_filename": "a11_visual_6-base-A.gif"
+        }
+      ],
+      "recommended_candidate_id": "6-base-A",
+      "selected_candidate_id": "6-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "8-base": {
+      "card_id": "8-base",
+      "position": 4,
+      "german": "Achtung!",
+      "english": "attention! / watch out!",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "8-base-A",
+          "title": "Watch out for ducks",
+          "status": "integrated",
+          "source_page_url": "https://schildbruder.de/produkt/schilder/schild-achtung-enten/",
+          "image_url": "https://schildbruder.de/storage/2024/11/10000621_Achtung_Enten.jpg",
+          "creator": "Schildbruder retailer; individual designer unknown",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/8-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            800,
+            800
+          ],
+          "file_size_bytes": 70923,
+          "sha256": "57c6cbdf1c3f7cbd6375b3e43b508f7a427a03a2d24d68bc281ebbc22974d17b",
+          "frames": 1,
+          "memory_connection": "The exact German Achtung appears above a warning triangle containing an unexpectedly important duck: Achtung → watch out!",
+          "match_type": "German-word mnemonic",
+          "ambiguities": "Enten is extra vocabulary inside the original asset; warning is more concrete than attention in general.",
+          "quality": "Recommended for review; direct German word/cognate connection",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Unmodified download",
+          "search_ids": [
+            "S002",
+            "S003",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_8-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "8-base-A",
+      "selected_candidate_id": "8-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "9-base": {
+      "card_id": "9-base",
+      "position": 5,
+      "german": "die Adresse, Adressen",
+      "english": "address",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "9-base-A",
+          "title": "Harry Potter’s very specific address",
+          "status": "integrated",
+          "source_page_url": "https://propstore.com/product/harry-potter-and-the-philosophers-stone-2001/lot-164-hero-wax-sealed-hogwarts-acceptance-letter/",
+          "image_url": "https://images.propstore.com/1d74eeab7c4845493d3291ac187692ea-1.jpg",
+          "creator": "Harry Potter and the Philosopher’s Stone (2001); Propstore prop photograph; photographer unknown",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/9-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            734,
+            734
+          ],
+          "file_size_bytes": 35754,
+          "sha256": "54a2084641cf0845cc3d7771e85a9c61a989c4b761aa3b78f1751607d764df03",
+          "frames": 1,
+          "memory_connection": "Adresse resembles address; Harry’s unusually precise cupboard address turns that familiar spelling into a memorable delivered letter.",
+          "match_type": "German-word mnemonic",
+          "ambiguities": "Cognate-plus-scene aid, not a pronunciation guide. Shows a postal address rather than an email address. No new label is added.",
+          "quality": "Recommended for review; direct German word/cognate connection",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Unmodified download",
+          "search_ids": [
+            "S003",
+            "S006",
+            "S007",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_9-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "9-base-A",
+      "selected_candidate_id": "9-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "10-base": {
+      "card_id": "10-base",
+      "position": 6,
+      "german": "alle / alles",
+      "english": "all (everything)",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "10-base-A",
+          "title": "Clean ALL the things",
+          "status": "integrated",
+          "source_page_url": "https://hyperboleandahalf.blogspot.com/2010/06/this-is-why-ill-never-be-adult.html",
+          "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAbkmgiCg8x5ke0znAonSXIEicqHWfrw2N8JF1Ed4je44SdI7e0dnr2v1QNEpx8HkxeCRktVO21ymFhtSOM3ixyloG9l1bZvFDtwr7-XNyLo4V7Jo62DRHqqCM3mFSERC0XSdM47A-zB0/s400/responsibility12(alternate).png",
+          "creator": "Allie Brosh, Hyperbole and a Half, This is Why I’ll Never be an Adult (2010)",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/10-base-A.png",
+          "asset_type": "static image",
+          "format": "PNG",
+          "dimensions": [
+            400,
+            300
+          ],
+          "file_size_bytes": 33977,
+          "sha256": "9615b4a5133fb67fb1f82d22c6af1c058a30445faa370ee8fea4219dfbe73157",
+          "frames": 1,
+          "memory_connection": "Alle / alles begins like English all; the cartoon’s emphatic ALL THE THINGS anchors the everything meaning with comic overenthusiasm.",
+          "match_type": "German-word mnemonic",
+          "ambiguities": "English spelling association only, not exact German pronunciation. Cleaning is the scene, not the word being learned.",
+          "quality": "Recommended for review; direct German word/cognate connection",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Unmodified download",
+          "search_ids": [
+            "S002",
+            "S003",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_10-base-A.png"
+        }
+      ],
+      "recommended_candidate_id": "10-base-A",
+      "selected_candidate_id": "10-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "11-base": {
+      "card_id": "11-base",
+      "position": 7,
+      "german": "allein",
+      "english": "alone",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "11-base-A",
+          "title": "Kevin – Allein zu Haus",
+          "status": "integrated",
+          "source_page_url": "https://www.filmposter-archiv.de/filmplakat.php?id=3757",
+          "image_url": "https://www.filmposter-archiv.de/filmplakat/1990/kevin_allein_zu_haus.jpg",
+          "creator": "Home Alone (1990), German theatrical poster, Filmposter-Archiv; title and plot corroborated by official Disney+",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/11-base-A-archive.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            492,
+            700
+          ],
+          "file_size_bytes": 100552,
+          "sha256": "791d7c3ff9c05cd0eef6008b3c5b46d4cad5f1e2f5ca1cca2cbc92eae9cbb28a",
+          "frames": 1,
+          "memory_connection": "The existing German title puts allein on the familiar Home Alone poster: alone is Kevin’s entire predicament.",
+          "match_type": "German-word mnemonic",
+          "ambiguities": "Works best if you recognize Home Alone. Two burglars also appear; the plot/title, not a head count, carries alone. Small credits are incidental.",
+          "quality": "Recommended for review; direct German word/cognate connection",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Unmodified archive download of same German poster; prior cinema source page returned404.",
+          "search_ids": [
+            "S002",
+            "S004",
+            "S006",
+            "S007",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "historical_source_page_url": "https://www.thalia-potsdam.de/einmalig/adventskino/",
+          "packaged_filename": "a11_visual_11-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "11-base-A",
+      "selected_candidate_id": "11-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "12-base": {
+      "card_id": "12-base",
+      "position": 8,
+      "german": "also",
+      "english": "so, thus",
+      "status": "Gap",
+      "gap_reason": "No clear therefore/so visual with a German cue; English also creates a false-friend risk.",
+      "candidates": [],
+      "recommended_candidate_id": null,
+      "selected_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "13-base": {
+      "card_id": "13-base",
+      "position": 9,
+      "german": "alt",
+      "english": "old",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "13-base-A",
+          "title": "Carl from Up",
+          "status": "integrated",
+          "source_page_url": "https://www.pixar.com/upfilm",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/60241cb68df65b530cd84d95/524984ff-b5da-44fd-a9b3-9f420c23bf87/carl15.jpg",
+          "creator": "Disney/Pixar, Carl Fredricksen in Up (2009), official character image",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/13-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            1200,
+            674
+          ],
+          "file_size_bytes": 87357,
+          "sha256": "7dc573e1dde4322578c2a3b1dd08385d592cbd6622e6e6c8fae93c726ace7e71",
+          "frames": 1,
+          "memory_connection": "Carl’s gray hair, wrinkles and oversized glasses make an expressive, recognizable old character.",
+          "match_type": "meaning-only fallback",
+          "ambiguities": "No German sound cue. Describes an old person; alt also describes old objects. Distinct from the Alter card’s noun caption about old age.",
+          "quality": "Recommended for review; clear meaning, weaker German retrieval",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Resized only, max 1200px; aspect ratio, scene and text preserved",
+          "search_ids": [
+            "S004",
+            "S006",
+            "S007",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_13-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "13-base-A",
+      "selected_candidate_id": "13-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "14-base": {
+      "card_id": "14-base",
+      "position": 10,
+      "german": "das Alter",
+      "english": "age, old age",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "14-base-A",
+          "title": "Old age, hippo style",
+          "status": "integrated",
+          "source_page_url": "https://www.kartenparadies.at/products/geburtstag-lass-es-mal-richtig-krachen",
+          "image_url": "https://www.kartenparadies.at/cdn/shop/products/F-A-10innen.jpg?v=1619864324",
+          "creator": "Edition Basic Funny-live series, retailer Kartenparadies; individual illustrator unknown",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/14-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            790,
+            555
+          ],
+          "file_size_bytes": 97372,
+          "sha256": "347c3e4091f0b37d5d7f2455161af8539275ee157e23f1a72769180d3effe9b3",
+          "frames": 1,
+          "memory_connection": "The existing caption IM ALTER sits over a hippo with a walking frame making engine noises: old age gets a comic scene and the exact noun.",
+          "match_type": "German-word mnemonic",
+          "ambiguities": "Extra German remains inside the original image. Old age is explicit in IM ALTER; unlike alt’s descriptive portrait. Cropped to improve small-screen caption legibility.",
+          "quality": "Recommended for review; direct German word/cognate connection",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Resized whole original to 1200×882, then cropped (370,35,1160,590) to 790×555. Keeps IM ALTER caption and whole hippo/walker; removes blank space and unrelated birthday wishes. No added text.",
+          "search_ids": [
+            "S004",
+            "S006",
+            "S007",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_14-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "14-base-A",
+      "selected_candidate_id": "14-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "15-base": {
+      "card_id": "15-base",
+      "position": 11,
+      "german": "an",
+      "english": "on (adv), at (prep)",
+      "status": "Gap",
+      "gap_reason": "Switch results mostly encode EIN or I/O; a single switch also misses at. No useful unified cue.",
+      "candidates": [],
+      "recommended_candidate_id": null,
+      "selected_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "17-base": {
+      "card_id": "17-base",
+      "position": 12,
+      "german": "das Angebot, Angebote",
+      "english": "offer",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "17-base-A",
+          "title": "An offer you can’t refuse",
+          "status": "integrated",
+          "source_page_url": "https://www.meme-arsenal.com/en/create/meme/3355963",
+          "image_url": "https://images.meme-arsenal.com/cbcb0abd2c9b59961b2a651736410fa8.jpg",
+          "creator": "Marlon Brando / Don Vito Corleone, The Godfather (1972); meme author unknown; hosted by Meme-arsenal",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/17-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            600,
+            449
+          ],
+          "file_size_bytes": 64744,
+          "sha256": "d6abd166b25c5d3c698e2ea67d54375a9ccd3b438e15e152c8274985749641bb",
+          "frames": 1,
+          "memory_connection": "The familiar Godfather offer scene already contains Angebot in its German caption: the word leads to an unforgettable offer.",
+          "match_type": "German-word mnemonic",
+          "ambiguities": "Assumes familiarity with the quotation. The threatening offer is an example, not the meaning of all offers. Existing caption remains intact.",
+          "quality": "Recommended for review; direct German word/cognate connection",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Unmodified download",
+          "search_ids": [
+            "S005",
+            "S006",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_17-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "17-base-A",
+      "selected_candidate_id": "17-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "18-base": {
+      "card_id": "18-base",
+      "position": 13,
+      "german": "anderer / andere / anderes",
+      "english": "other",
+      "status": "Gap",
+      "gap_reason": "Search returned unrelated wanderer memes; no clear other contrast with a German cue.",
+      "candidates": [],
+      "recommended_candidate_id": null,
+      "selected_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "19-base": {
+      "card_id": "19-base",
+      "position": 14,
+      "german": "anfangen",
+      "english": "to start",
+      "status": "Gap",
+      "gap_reason": "Bugs Bunny GIF was inspected but loops dancing at a START sign without actually starting. Rejected rather than claiming the action; der Anfang has a separate noun fallback.",
+      "candidates": [],
+      "recommended_candidate_id": null,
+      "selected_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "20-base": {
+      "card_id": "20-base",
+      "position": 15,
+      "german": "der Anfang",
+      "english": "start",
+      "status": "Integrated",
+      "gap_reason": null,
+      "candidates": [
+        {
+          "candidate_id": "20-base-A",
+          "title": "The starting point",
+          "status": "integrated",
+          "source_page_url": "https://www.midliferun.today/blog/2017/7/21/cim-training-the-beginning-its-time-to-sweat-again",
+          "image_url": "https://images.squarespace-cdn.com/content/v1/5532ef55e4b06631eac2e194/1500696446556-KD7R4H6G6DRWRX5XIGBS/image-asset.jpeg",
+          "creator": "Midlife Run blog photograph; photographer unknown",
+          "usage": "Unknown; public viewing is not a reuse license. Original third-party content.",
+          "accessed_on": "2026-10-25",
+          "local_path": "assets/20-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "dimensions": [
+            1200,
+            801
+          ],
+          "file_size_bytes": 469539,
+          "sha256": "18ef05e9e4068c3d1fd5400b4e9700628459060bc2ea8b430717b2142fb9200a",
+          "frames": 1,
+          "memory_connection": "A bare starting line identifies the noun start as a point/place, without showing someone starting an action.",
+          "match_type": "meaning-only fallback",
+          "ambiguities": "Low humor and no German sound cue. Exact concrete meaning and excellent legibility; optional fallback rather than a top mnemonic. Physical start is narrower than a general beginning.",
+          "quality": "Recommended for review; clear meaning, weaker German retrieval",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "motion_frames_inspected": false,
+            "offline_browser_playback": "not applicable",
+            "integration_verified": true
+          },
+          "transformations": "Resized only, max 1200px; aspect ratio, scene and text preserved",
+          "search_ids": [
+            "S005",
+            "S006",
+            "S008"
+          ],
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "packaged_filename": "a11_visual_20-base-A.jpg"
+        }
+      ],
+      "recommended_candidate_id": "20-base-A",
+      "selected_candidate_id": "20-base-A",
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "21-base": {
+      "card_id": "21-base",
+      "position": 16,
+      "german": "anklicken (etw. Akk.)",
+      "english": "to click something",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "21-base-A",
+          "card_id": "21-base",
+          "title": "Cursor click pulse",
+          "status": "integrated",
+          "recommendation": "Recommended",
+          "source_page_url": "https://tenor.com/view/clicking-mouse-gif-25181352",
+          "direct_asset_url": "https://media1.tenor.com/m/x6BpJ7fthtIAAAAC/clicking-mouse.gif",
+          "creator_film_attribution": "Tenor uploader Withersotrm120102; underlying animation creator unknown",
+          "usage_license": "unknown; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/21-base-A.gif",
+          "gallery_asset_path": "assets/21-base-A.gif",
+          "asset_type": "animated GIF",
+          "format": "GIF",
+          "mime_type": "image/gif",
+          "width": 498,
+          "height": 498,
+          "size_bytes": 44345,
+          "sha256": "c8b30ff367b4caa6e297a4afc6a4f542bbe3cbf737f2e5c8dcdeb0a36bfd3bf7",
+          "frame_count": 7,
+          "duration_ms": 350,
+          "transformations": "none",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": true,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "offline_browser_playback": "Verified in gallery, study preview and package answer",
+            "integration_verified": true,
+            "anki_client_playback": "Verified rendered-frame changes in installed Anki25.02.5 AnkiWebView, disposable /tmp profile"
+          },
+          "memory_connection": "The visible pointer and click pulse attach the familiar klick/click cue in anklicken to clicking something. Motion distinguishes the click event from a static arrow.",
+          "match_type": "German-word mnemonic",
+          "quality": "Strong spelling/sound cue; simple high contrast at small sizes; low humor.",
+          "ambiguities": "Pulse is very fast (350 ms); could resemble cursor movement without click context. Sound association is a memory aid, not pronunciation instruction.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. GIF visibly animates offline in gallery/preview and in installed Anki25.02.5 AnkiWebView, isolated profile.",
+          "image_url": "https://media1.tenor.com/m/x6BpJ7fthtIAAAAC/clicking-mouse.gif",
+          "creator": "Tenor uploader Withersotrm120102; underlying animation creator unknown",
+          "usage": "unknown; no reuse license verified",
+          "local_path": "assets/21-base-A.gif",
+          "dimensions": [
+            498,
+            498
+          ],
+          "file_size_bytes": 44345,
+          "frames": 7,
+          "packaged_filename": "a11_visual_21-base-A.gif"
+        }
+      ],
+      "selected_candidate_id": "21-base-A",
+      "recommended_candidate_id": "21-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "24-base": {
+      "card_id": "24-base",
+      "position": 17,
+      "german": "ankreuzen",
+      "english": "to tick / mark with a cross",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "24-base-A",
+          "card_id": "24-base",
+          "title": "Pencil marks a cross in a box",
+          "status": "integrated",
+          "recommendation": "Recommended",
+          "source_page_url": "https://www.rhein-lahn-kreis.de/aktuelles/2024/briefwahlen-fuer-europa-und-kommunalwahlen-2024-im-rhein-lahn-kreis-welcher-zettel-muss-in-welchen-umschlag/",
+          "direct_asset_url": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/politik-und-gremien/pen-2181101-1920.jpg?cid=68b.t0d",
+          "creator_film_attribution": "Rhein-Lahn-Kreis source publisher; photographer unknown",
+          "usage_license": "unknown; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/24-base-A.jpg",
+          "gallery_asset_path": "assets/24-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "mime_type": "image/jpeg",
+          "width": 960,
+          "height": 640,
+          "size_bytes": 108718,
+          "sha256": "93103d9b7c1bd34856d574224e15d806177ec9b49a7b7d78200dc296773aebc1",
+          "frame_count": 1,
+          "duration_ms": null,
+          "transformations": "Resized 1920×1280 JPEG (813299 bytes) to 960×640 JPEG, quality90; whole scene retained.",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": false,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "integration_verified": true
+          },
+          "memory_connection": "Kreuz means cross: the pencil actively puts a red cross in a checkbox, tying kreuz in ankreuzen to marking/ticking a box.",
+          "match_type": "German-word mnemonic",
+          "quality": "Very clear action/object and generous close-up; direct word-part connection; no humor.",
+          "ambiguities": "X is the relevant mark, not a mathematical multiplication or religious cross; photo does not show a tick-shaped checkmark.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "image_url": "https://www.rhein-lahn-kreis.de/rhein-lahn-kreis/politik-und-gremien/pen-2181101-1920.jpg?cid=68b.t0d",
+          "creator": "Rhein-Lahn-Kreis source publisher; photographer unknown",
+          "usage": "unknown; no reuse license verified",
+          "local_path": "assets/24-base-A.jpg",
+          "dimensions": [
+            960,
+            640
+          ],
+          "file_size_bytes": 108718,
+          "frames": 1,
+          "packaged_filename": "a11_visual_24-base-A.jpg"
+        }
+      ],
+      "selected_candidate_id": "24-base-A",
+      "recommended_candidate_id": "24-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "26-base": {
+      "card_id": "26-base",
+      "position": 18,
+      "german": "sich anmelden (Akk.)",
+      "english": "to register / enrol",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "No strong inspected registering/enrolling action; login screenshots teach a different sense and dense forms are illegible. Kept distinct from noun Anmeldung.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "27-base": {
+      "card_id": "27-base",
+      "position": 19,
+      "german": "die Anmeldung",
+      "english": "application, registration",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "No memorable, readable application/registration-result visual; dense full-page municipal forms rejected. Kept distinct from verb sich anmelden.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "28-base": {
+      "card_id": "28-base",
+      "position": 20,
+      "german": "die Anrede",
+      "english": "form of address",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "No clear form-of-address visual. Generic Herr/Frau tables are text-heavy; animal honorific cartoon teaches different words.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "29-base": {
+      "card_id": "29-base",
+      "position": 21,
+      "german": "anrufen",
+      "english": "to telephone",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "No strong German cue or humorous outgoing-call scene. Generic rotary dialing is bland; Mr Bean phone conversation retained only for noun Anruf, direction unspecified.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "30-base": {
+      "card_id": "30-base",
+      "position": 22,
+      "german": "der Anruf, Anrufe",
+      "english": "telephone call",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "30-base-A",
+          "card_id": "30-base",
+          "title": "Mr Bean and the oversized mobile call",
+          "status": "integrated",
+          "recommendation": "Recommended",
+          "source_page_url": "https://tenor.com/view/mr-bean-rowan-atkinson-phone-call-hello-who-is-it-gif-18020495",
+          "direct_asset_url": "https://media1.tenor.com/m/1_KLvk5nIBkAAAAC/mr-bean-rowan-atkinson.gif",
+          "creator_film_attribution": "Mr Bean / Rowan Atkinson; Tenor official-partner uploader GifGari; episode and rights holder unknown",
+          "usage_license": "unknown; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/30-base-A.gif",
+          "gallery_asset_path": "assets/30-base-A.gif",
+          "asset_type": "animated GIF",
+          "format": "GIF",
+          "mime_type": "image/gif",
+          "width": 320,
+          "height": 250,
+          "size_bytes": 5343616,
+          "sha256": "bd483861584db45cb99af9137453f2c1e3590035b88930ae926a0eac19c5a625",
+          "frame_count": 82,
+          "duration_ms": 4100,
+          "transformations": "Resized all82 frames from498×389 (8272564 bytes) to320×250; duration4100ms and loop preserved.",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": true,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "offline_browser_playback": "Verified in gallery, study preview and package answer",
+            "integration_verified": true,
+            "anki_client_playback": "Verified rendered-frame changes in installed Anki25.02.5 AnkiWebView, disposable /tmp profile"
+          },
+          "memory_connection": "A recognizable comic telephone conversation anchors the noun telephone call. It has no credible German-word sound link; use as a meaning-only fallback.",
+          "match_type": "meaning-only fallback",
+          "quality": "Recognizable character and comically large mobile; animation reveals the phone moving to his ear; scene stays readable at320px.",
+          "ambiguities": "Incoming versus outgoing call is unspecified. Could also suggest phone/device; do not reuse it as proof of outgoing action anrufen. Existing GifGari watermark retained.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. GIF visibly animates offline in gallery/preview and in installed Anki25.02.5 AnkiWebView, isolated profile.",
+          "image_url": "https://media1.tenor.com/m/1_KLvk5nIBkAAAAC/mr-bean-rowan-atkinson.gif",
+          "creator": "Mr Bean / Rowan Atkinson; Tenor official-partner uploader GifGari; episode and rights holder unknown",
+          "usage": "unknown; no reuse license verified",
+          "local_path": "assets/30-base-A.gif",
+          "dimensions": [
+            320,
+            250
+          ],
+          "file_size_bytes": 5343616,
+          "frames": 82,
+          "packaged_filename": "a11_visual_30-base-A.gif"
+        }
+      ],
+      "selected_candidate_id": "30-base-A",
+      "recommended_candidate_id": "30-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "31-base": {
+      "card_id": "31-base",
+      "position": 23,
+      "german": "der Anrufbeantworter",
+      "english": "answering machine",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "No strong inspected phone-call-answerer mnemonic. Generic icon/photo might retrieve telephone or tape recorder; Friends dialogue needs audio and shows no machine.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "34-base": {
+      "card_id": "34-base",
+      "position": 24,
+      "german": "antworten",
+      "english": "to answer",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "No clear visual of answering a question. Hermione hand raise can mean volunteering; ant-word sound association found no existing fitting scene. Kept distinct from noun Antwort.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "35-base": {
+      "card_id": "35-base",
+      "position": 25,
+      "german": "die Antwort, Antworten",
+      "english": "answer",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "35-base-A",
+          "card_id": "35-base",
+          "title": "42 — Die Antwort auf fast alles",
+          "status": "integrated",
+          "recommendation": "Optional fallback — approve only if42 is familiar",
+          "source_page_url": "https://talking-animals.com/work/arte-42.html",
+          "direct_asset_url": "https://i.vimeocdn.com/video/1567837072-46964d97bbfd701a20f17972be34b49b2d093e6ce1ee18498a6e5efe7ea764ef-d?f=webp",
+          "creator_film_attribution": "Talking Animals project: animation director Jost Althoff; client mobyDOK; ©Arte2021,2022; source page embeds Vimeo781069183. Style guide Sonja Rohleder and Jana Kritchever.",
+          "usage_license": "©Arte2021,2022 per creator page; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/35-base-A.webp",
+          "gallery_asset_path": "assets/35-base-A.webp",
+          "asset_type": "static image",
+          "format": "WEBP",
+          "mime_type": "image/webp",
+          "width": 940,
+          "height": 620,
+          "size_bytes": 78364,
+          "sha256": "18b2cd7be46e23a9b95a41d5ba9b396e6def6a4ce040d1522114d114b192836d",
+          "frame_count": 1,
+          "duration_ms": null,
+          "transformations": "Cropped existing1920×1080 Vimeo thumbnail to(590,280,1530,900),940×620 WebP; entire42 and both existing German/French captions retained.",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": false,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "integration_verified": true
+          },
+          "memory_connection": "If 42 already recalls the famous answer joke, this existing title binds the written noun ANTWORT to that answer/result. It does not depict someone answering; deliberately distinct from verb antworten.",
+          "match_type": "meaning-only fallback",
+          "quality": "Existing word ANTWORT is prominent in cropped high-contrast title; useful only if42 is already a familiar answer reference.",
+          "ambiguities": "Conditional usefulness: unfamiliar viewers may retrieve number42 or TV series rather than answer. French caption remains. No sound mnemonic and no new explanatory text in image.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "image_url": "https://i.vimeocdn.com/video/1567837072-46964d97bbfd701a20f17972be34b49b2d093e6ce1ee18498a6e5efe7ea764ef-d?f=webp",
+          "creator": "Talking Animals project: animation director Jost Althoff; client mobyDOK; ©Arte2021,2022; source page embeds Vimeo781069183. Style guide Sonja Rohleder and Jana Kritchever.",
+          "usage": "©Arte2021,2022 per creator page; no reuse license verified",
+          "local_path": "assets/35-base-A.webp",
+          "dimensions": [
+            940,
+            620
+          ],
+          "file_size_bytes": 78364,
+          "frames": 1,
+          "packaged_filename": "a11_visual_35-base-A.webp"
+        }
+      ],
+      "selected_candidate_id": "35-base-A",
+      "recommended_candidate_id": "35-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "36-base": {
+      "card_id": "36-base",
+      "position": 26,
+      "german": "die Anzeige, Anzeigen",
+      "english": "advertisement",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "Fry paying depicts buying rather than advertisement. Old Spice scene needs ad recognition; slang classified ad has incorrect German and tiny text. No strong inspected candidate.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "39-base": {
+      "card_id": "39-base",
+      "position": 27,
+      "german": "der Apfel, Äpfel",
+      "english": "apple",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "39-base-A",
+          "card_id": "39-base",
+          "title": "Googly-eyed wrinkled apple",
+          "status": "integrated",
+          "recommendation": "Recommended",
+          "source_page_url": "https://www.meme-arsenal.com/create/template/6977211",
+          "direct_asset_url": "https://images.meme-arsenal.com/e5e190ac018aae44ce79be995fac2a17.jpg",
+          "creator_film_attribution": "Meme-Arsenal existing template6977211; photographer/creator unknown",
+          "usage_license": "unknown; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/39-base-A.jpg",
+          "gallery_asset_path": "assets/39-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "mime_type": "image/jpeg",
+          "width": 620,
+          "height": 520,
+          "size_bytes": 44364,
+          "sha256": "fe81878443224d70e174b2835a8b825b580171617d66092a137a5c2f01d27c69",
+          "frame_count": 1,
+          "duration_ms": null,
+          "transformations": "none",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": false,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "integration_verified": true
+          },
+          "memory_connection": "Apfel resembles apple in spelling and sound; the unmistakable apple with googly eyes gives that cognate a funny concrete face.",
+          "match_type": "German-word mnemonic",
+          "quality": "Recognizable fruit and unexpected face; readable without text at small size; strong cognate cue.",
+          "ambiguities": "Wrinkled center may also suggest an old/rotten apple; no claim about etymology or exact pronunciation.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "image_url": "https://images.meme-arsenal.com/e5e190ac018aae44ce79be995fac2a17.jpg",
+          "creator": "Meme-Arsenal existing template6977211; photographer/creator unknown",
+          "usage": "unknown; no reuse license verified",
+          "local_path": "assets/39-base-A.jpg",
+          "dimensions": [
+            620,
+            520
+          ],
+          "file_size_bytes": 44364,
+          "frames": 1,
+          "packaged_filename": "a11_visual_39-base-A.jpg"
+        }
+      ],
+      "selected_candidate_id": "39-base-A",
+      "recommended_candidate_id": "39-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "40-base": {
+      "card_id": "40-base",
+      "position": 28,
+      "german": "der Appetit",
+      "english": "appetite",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "40-base-A",
+          "card_id": "40-base",
+          "title": "Cookie Monster devours a cookie",
+          "status": "integrated",
+          "recommendation": "Recommended",
+          "source_page_url": "https://tenor.com/view/sesame-street-cookie-monster-eats-your-art-eating-muppet-crazy-eyes-gif-1461380403278441959",
+          "direct_asset_url": "https://media1.tenor.com/m/FEfdu-sg7ecAAAAC/sesame-street-cookie-monster-eats-your-art.gif",
+          "creator_film_attribution": "Sesame Street Cookie Monster; Tenor uploader RedOfficialArt; exact episode unknown",
+          "usage_license": "unknown; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/40-base-A.gif",
+          "gallery_asset_path": "assets/40-base-A.gif",
+          "asset_type": "animated GIF",
+          "format": "GIF",
+          "mime_type": "image/gif",
+          "width": 309,
+          "height": 320,
+          "size_bytes": 3380467,
+          "sha256": "041a32ea7a22cd71baa7ea7a69285b33fe9480f074d599dcca7d37cadf3f6dc3",
+          "frame_count": 75,
+          "duration_ms": 3750,
+          "transformations": "Resized all75 frames from481×498 (6178895 bytes) to309×320;3750ms and loop preserved.",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": true,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "offline_browser_playback": "Verified in gallery, study preview and package answer",
+            "integration_verified": true,
+            "anki_client_playback": "Verified rendered-frame changes in installed Anki25.02.5 AnkiWebView, disposable /tmp profile"
+          },
+          "memory_connection": "Appetit is close to appetite; Cookie Monster excitedly devouring the cookie supplies a memorable appetite/desire-for-food scene to anchor that cognate. The scene alone depicts meaning.",
+          "match_type": "German-word mnemonic",
+          "quality": "Appetit/appetite cognate is direct; eager expression and vigorous chomp are funny and clear without captions.",
+          "ambiguities": "Could retrieve eating or hunger rather than appetite. The connection relies partly on the cognate, and does not imply correct German pronunciation from English.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. GIF visibly animates offline in gallery/preview and in installed Anki25.02.5 AnkiWebView, isolated profile.",
+          "image_url": "https://media1.tenor.com/m/FEfdu-sg7ecAAAAC/sesame-street-cookie-monster-eats-your-art.gif",
+          "creator": "Sesame Street Cookie Monster; Tenor uploader RedOfficialArt; exact episode unknown",
+          "usage": "unknown; no reuse license verified",
+          "local_path": "assets/40-base-A.gif",
+          "dimensions": [
+            309,
+            320
+          ],
+          "file_size_bytes": 3380467,
+          "frames": 75,
+          "packaged_filename": "a11_visual_40-base-A.gif"
+        }
+      ],
+      "selected_candidate_id": "40-base-A",
+      "recommended_candidate_id": "40-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    },
+    "41-base": {
+      "card_id": "41-base",
+      "position": 29,
+      "german": "arbeiten",
+      "english": "to work",
+      "status": "Gap",
+      "candidates": [],
+      "selected_candidate_id": null,
+      "gap_reason": "Inspected work/money meme rejected: talking heads show no work; multi-sentence German joke too demanding. Kept distinct from noun Arbeit.",
+      "recommended_candidate_id": null,
+      "user_decision": "pending"
+    },
+    "42-base": {
+      "card_id": "42-base",
+      "position": 30,
+      "german": "die Arbeit, Arbeiten",
+      "english": "work",
+      "status": "Integrated",
+      "candidates": [
+        {
+          "candidate_id": "42-base-A",
+          "card_id": "42-base",
+          "title": "The Office — 100% auf der Arbeit",
+          "status": "integrated",
+          "recommendation": "Recommended",
+          "source_page_url": "https://schwarzer-kaffee.com/100-prozent-auf-arbeit/",
+          "direct_asset_url": "https://schwarzer-kaffee.com/bilder/2023/07/IMG-20230724-WA0000.jpg",
+          "creator_film_attribution": "The Office Jim Halpert / John Krasinski scene; existing German meme published Schwarzer Kaffee; caption creator unknown",
+          "usage_license": "unknown; no reuse license verified",
+          "accessed_on": "2026-10-25",
+          "local_asset_path": "anki/a1.1/image-candidates/assets/42-base-A.jpg",
+          "gallery_asset_path": "assets/42-base-A.jpg",
+          "asset_type": "static image",
+          "format": "JPEG",
+          "mime_type": "image/jpeg",
+          "width": 720,
+          "height": 801,
+          "size_bytes": 55400,
+          "sha256": "a7a1346ef54aa439397b4a4041c609b00a2049a8e8ef8f80c742eaa1909a7e40",
+          "frame_count": 1,
+          "duration_ms": null,
+          "transformations": "none",
+          "inspection": {
+            "source_page_opened": true,
+            "full_visual_inspected": true,
+            "sampled_gif_frames_inspected": false,
+            "gif_motion_runtime_inspected": false,
+            "offline_playback_checked": false,
+            "integration_verified": true
+          },
+          "memory_connection": "The existing caption explicitly pairs Arbeit with the office workplace. The joke distributes100% effort across the week, making work as a noun concrete and different from a verb action.",
+          "match_type": "German-word mnemonic",
+          "quality": "Visible Arbeit in a recognizable workplace and surprising percentage joke; main phrase readable in small preview.",
+          "ambiguities": "Requires some German reading; lower percentage list may need full-size view on phone. No sound association; could evoke office or weekdays as well as work.",
+          "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates.",
+          "integration_checks": "Packaged exact approved SHA256 bytes; correct Deck01 answer/preview assignment; survives preparation and rebuilding; reimport preserves IDs/scheduling in isolated Anki25.02.5 and26.9.3. Offline image rendering checked in browser using actual Anki-rendered answer.",
+          "image_url": "https://schwarzer-kaffee.com/bilder/2023/07/IMG-20230724-WA0000.jpg",
+          "creator": "The Office Jim Halpert / John Krasinski scene; existing German meme published Schwarzer Kaffee; caption creator unknown",
+          "usage": "unknown; no reuse license verified",
+          "local_path": "assets/42-base-A.jpg",
+          "dimensions": [
+            720,
+            801
+          ],
+          "file_size_bytes": 55400,
+          "frames": 1,
+          "packaged_filename": "a11_visual_42-base-A.jpg"
+        }
+      ],
+      "selected_candidate_id": "42-base-A",
+      "recommended_candidate_id": "42-base-A",
+      "gap_reason": null,
+      "user_decision": "2026-10-26: user said \"approve all\" for all16 proposed gallery candidates."
+    }
+  },
+  "rejected_candidates": [
+    {
+      "candidate_id": "19-base-A",
+      "card_id": "19-base",
+      "local_path": "assets/19-base-A.gif",
+      "reason": "Actual frames show dancing on the spot, not starting; full GIF inspected, rejected after discovery."
+    },
+    {
+      "candidate_id": "41-base-A",
+      "card_id": "41-base",
+      "title": "Work/money talking-head joke — rejected",
+      "status": "rejected",
+      "recommendation": "Rejected — omit from gallery",
+      "source_page_url": "https://www.gutefrage.net/umfrage/versteht-ihr-das-meme-1",
+      "direct_asset_url": "https://images.gutefrage.net/media/fragen/bilder/versteht-ihr-das-meme-1/5cd947ef-d39d-4bb2-941a-bc0c003fc918_full.jpg?v=1776195137000",
+      "creator_film_attribution": "Gutefrage repost; underlying meme/cartoon creator unknown",
+      "usage_license": "unknown; no reuse license verified",
+      "accessed_on": "2026-10-25",
+      "local_asset_path": "anki/a1.1/image-candidates/assets/41-base-A.jpg",
+      "gallery_asset_path": "assets/41-base-A.jpg",
+      "asset_type": "static image",
+      "format": "JPEG",
+      "mime_type": "image/jpeg",
+      "width": 1078,
+      "height": 1174,
+      "size_bytes": 78763,
+      "sha256": "a399371ec2ee77d57a5b9951a0e60f557075826e57d533cc051513482ed25511",
+      "frame_count": 1,
+      "duration_ms": null,
+      "transformations": "none",
+      "inspection": {
+        "source_page_opened": true,
+        "full_visual_inspected": true,
+        "sampled_gif_frames_inspected": false,
+        "gif_motion_runtime_inspected": false,
+        "offline_playback_checked": false
+      },
+      "memory_connection": "Existing text says arbeiten but the heads show no work; no useful direct cue to English meaning.",
+      "match_type": "meaning-only fallback",
+      "quality": "Insufficient: humor depends on multi-sentence German rather than depicted action.",
+      "ambiguities": "Rejected for weak target connection and A1 readability. Source page opened by web; direct source HTML403 via urllib; image retrieved and inspected.",
+      "user_decision": "pending",
+      "integration_checks": "not performed; approval gate",
+      "image_url": "https://images.gutefrage.net/media/fragen/bilder/versteht-ihr-das-meme-1/5cd947ef-d39d-4bb2-941a-bc0c003fc918_full.jpg?v=1776195137000",
+      "creator": "Gutefrage repost; underlying meme/cartoon creator unknown",
+      "usage": "unknown; no reuse license verified",
+      "local_path": "assets/41-base-A.jpg",
+      "dimensions": [
+        1078,
+        1174
+      ],
+      "file_size_bytes": 78763,
+      "frames": 1
+    }
+  ],
+  "approval_policy": "No image assignment is approved until the user explicitly selects/approves candidate IDs in the conversation. Checkboxes are review aids only.",
+  "approval": {
+    "date": "2026-10-26",
+    "exact_user_message": "approve all",
+    "scope": "All16 proposed gallery candidates only;14 gaps and all rejected candidates excluded."
+  },
+  "validation": {
+    "package": "../german-a1.1.apkg",
+    "package_report": "../verification.json",
+    "preservation": "../validation/preservation.json",
+    "persistence": "../validation/persistence.json",
+    "reimport": [
+      "../validation/reimport-25-02-5.json",
+      "../validation/reimport-26-9-3.json"
+    ],
+    "browser": "../validation/browser-verification.json",
+    "anki_client": "../validation/anki-client-verification.json",
+    "limitations": [
+      "Learner personal collection not accessed. AnkiMobile and AnkiDroid not tested.",
+      "Reimport tested on disposable copies with default imports, including simulated review and suspension state; locally customized user note types not tested."
+    ]
+  }
+}

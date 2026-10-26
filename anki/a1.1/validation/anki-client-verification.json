@@ -1,0 +1,30 @@
+{
+  "measurement": "QtWebView raster snapshots; canvas drawImage can use a static GIF frame",
+  "client": "installed Anki25.02.5 / AnkiWebView QtWebEngine",
+  "isolated_base": true,
+  "personal_collection_accessed": false,
+  "gifs": {
+    "6-base": {
+      "visible": true,
+      "distinct_rendered_frames": 4,
+      "animated": true
+    },
+    "21-base": {
+      "visible": true,
+      "distinct_rendered_frames": 5,
+      "animated": true
+    },
+    "30-base": {
+      "visible": true,
+      "distinct_rendered_frames": 6,
+      "animated": true
+    },
+    "40-base": {
+      "visible": true,
+      "distinct_rendered_frames": 6,
+      "animated": true
+    }
+  },
+  "imported_notes": 528,
+  "all_four_gifs_animate": true
+}

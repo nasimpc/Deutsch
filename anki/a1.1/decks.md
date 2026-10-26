@@ -1,6 +1,6 @@
 # German A1.1 — 18 study decks
 
-528 cards in source order. Text and German pronunciation; no images.
+528 cards in source order. Text and German pronunciation; approved visuals in Deck 01 only.
 
 Decks 01–17 have 30 cards each; deck 18 has 18.
 
